@@ -1,0 +1,132 @@
+{'count': [1, 1], 'doclen': 7, 'term': 'aerodynamic', 'docnum': [5, 12], 'tf': 2, 'df': 2}
+{'count': [1, 1], 'df': 2, 'term': 'aeroelastic', 'docnum': [1, 2], 'tf': 2}
+{'count': [1], 'df': 1, 'term': 'aileron', 'docnum': [13], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'air', 'docnum': [10], 'tf': 1}
+{'count': [1, 1], 'doclen': 11, 'term': 'aircraft', 'docnum': [1, 2], 'tf': 2, 'df': 2}
+{'count': [1], 'df': 1, 'term': 'analytical', 'docnum': [11], 'tf': 1}
+{'count': [2, 1, 1], 'df': 3, 'term': 'angle', 'docnum': [7, 8, 18], 'tf': 4}
+{'count': [1], 'df': 1, 'term': 'anyone', 'docnum': [20], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'applicable', 'docnum': [5], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'approximate', 'docnum': [8], 'tf': 1}
+{'count': [1], 'doclen': 8, 'term': 'approximation', 'docnum': [11], 'tf': 1, 'df': 1}
+{'count': [1], 'df': 1, 'term': 'associate', 'docnum': [2], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'assumption', 'docnum': [4], 'tf': 1}
+{'count': [2, 1, 1], 'df': 3, 'term': 'attack', 'docnum': [7, 8, 18], 'tf': 4}
+{'count': [1, 1, 1, 1], 'df': 4, 'term': 'available', 'docnum': [7, 8, 10, 18], 'tf': 4}
+{'count': [1], 'df': 1, 'term': 'base', 'docnum': [4], 'tf': 1}
+{'count': [1, 1], 'df': 2, 'term': 'basic', 'docnum': [13, 19], 'tf': 2}
+{'count': [1], 'doclen': 7, 'term': 'behaviour', 'docnum': [6], 'tf': 1, 'df': 1}
+{'count': [1], 'df': 1, 'term': 'blast', 'docnum': [11], 'tf': 1}
+{'count': [1, 1, 1, 1], 'doclen': 12, 'term': 'body', 'docnum': [8, 16, 17, 18], 'tf': 4, 'df': 4}
+{'count': [1], 'doclen': 5, 'term': 'buzz', 'docnum': [13], 'tf': 1, 'df': 1}
+{'count': [1, 1], 'doclen': 8, 'term': 'calculate', 'docnum': [12, 16], 'tf': 2, 'df': 2}
+{'count': [1], 'df': 1, 'term': 'channel', 'docnum': [12], 'tf': 1}
+{'count': [1, 1], 'df': 2, 'term': 'chemical', 'docnum': [4, 5], 'tf': 2}
+{'count': [1], 'df': 1, 'term': 'chemically', 'docnum': [4], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'combine', 'docnum': [19], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'composite', 'docnum': [3], 'tf': 1}
+{'count': [1], 'doclen': 9, 'term': 'computer', 'docnum': [16], 'tf': 1, 'df': 1}
+{'count': [1], 'doclen': 10, 'term': 'condition', 'docnum': [20], 'tf': 1, 'df': 1}
+{'count': [1], 'df': 1, 'term': 'conduction', 'docnum': [3], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'consideration', 'docnum': [19], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'construct', 'docnum': [1], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'couette', 'docnum': [6], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'criterion', 'docnum': [4], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'current', 'docnum': [20], 'tf': 1}
+{'count': [2], 'df': 1, 'term': 'dash', 'docnum': [8], 'tf': 2}
+{'count': [1], 'doclen': 9, 'term': 'density', 'docnum': [10], 'tf': 1, 'df': 1}
+{'count': [1], 'df': 1, 'term': 'determine', 'docnum': [20], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'develop', 'docnum': [4], 'tf': 1}
+{'count': [1, 1], 'df': 2, 'term': 'distribution', 'docnum': [7, 18], 'tf': 2}
+{'count': [1], 'df': 1, 'term': 'dynamic', 'docnum': [19], 'tf': 1}
+{'count': [1, 1], 'df': 2, 'term': 'effect', 'docnum': [12, 19], 'tf': 2}
+{'count': [1], 'df': 1, 'term': 'efficiently', 'docnum': [16], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'electronic', 'docnum': [16], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'empirically', 'docnum': [4], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'enthalpy', 'docnum': [10], 'tf': 1}
+{'count': [1], 'doclen': 18, 'term': 'equilibrium', 'docnum': [4], 'tf': 1, 'df': 1}
+{'count': [1], 'doclen': 18, 'term': 'equivalent', 'docnum': [7], 'tf': 1, 'df': 1}
+{'count': [1], 'df': 1, 'term': 'exact', 'docnum': [8], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'exist', 'docnum': [19], 'tf': 1}
+{'count': [1, 1], 'df': 2, 'term': 'experimental', 'docnum': [6, 18], 'tf': 2}
+{'count': [1], 'doclen': 7, 'term': 'far', 'docnum': [3], 'tf': 1, 'df': 1}
+{'count': [1], 'df': 1, 'term': 'find', 'docnum': [11], 'tf': 1}
+{'count': [1], 'doclen': 8, 'term': 'flight', 'docnum': [2], 'tf': 1, 'df': 1}
+{'count': [1, 1, 1, 1, 1, 1], 'df': 6, 'term': 'flow', 'docnum': [4, 6, 9, 12, 16, 17], 'tf': 6}
+{'count': [2], 'df': 1, 'term': 'forebody', 'docnum': [7], 'tf': 2}
+{'count': [1], 'df': 1, 'term': 'formally', 'docnum': [20], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'gas', 'docnum': [4], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'general', 'docnum': [20], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'good', 'docnum': [19], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'grind', 'docnum': [12], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'guide', 'docnum': [6], 'tf': 1}
+{'count': [1, 1, 1, 1], 'df': 4, 'term': 'heat', 'docnum': [1, 3, 9, 20], 'tf': 4}
+{'count': [1, 1], 'df': 2, 'term': 'high', 'docnum': [1, 2], 'tf': 2}
+{'count': [1], 'df': 1, 'term': 'hypersonic', 'docnum': [5], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'induce', 'docnum': [20], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'influence', 'docnum': [20], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'instantaneous', 'docnum': [4], 'tf': 1}
+{'count': [1], 'doclen': 4, 'term': 'interaction', 'docnum': [14], 'tf': 1, 'df': 1}
+{'count': [1], 'df': 1, 'term': 'internal', 'docnum': [9], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'joule', 'docnum': [20], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'kinetic', 'docnum': [5], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'law', 'docnum': [1], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'local', 'docnum': [4], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'lower', 'docnum': [7], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'machine', 'docnum': [12], 'tf': 1}
+{'count': [2], 'df': 1, 'term': 'material', 'docnum': [15], 'tf': 2}
+{'count': [1], 'df': 1, 'term': 'mechanism', 'docnum': [13], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'method', 'docnum': [8], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'mixture', 'docnum': [4], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'model', 'docnum': [1], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'must', 'docnum': [1], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'newtonian', 'docnum': [11], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'obey', 'docnum': [1], 'tf': 1}
+{'count': [2], 'df': 1, 'term': 'ogive', 'docnum': [7], 'tf': 2}
+{'count': [1, 1], 'df': 2, 'term': 'paper', 'docnum': [9, 14], 'tf': 2}
+{'count': [1], 'df': 1, 'term': 'performance', 'docnum': [12], 'tf': 1}
+{'count': [1], 'doclen': 4, 'term': 'photoelastic', 'docnum': [15], 'tf': 1, 'df': 1}
+{'count': [1, 1], 'df': 2, 'term': 'possible', 'docnum': [7, 11], 'tf': 2}
+{'count': [1, 1], 'df': 2, 'term': 'potential', 'docnum': [16, 17], 'tf': 2}
+{'count': [1], 'df': 1, 'term': 'predict', 'docnum': [8], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'presently', 'docnum': [8], 'tf': 1}
+{'count': [2, 1, 1], 'df': 3, 'term': 'pressure', 'docnum': [7, 8, 18], 'tf': 4}
+{'count': [1, 1, 1, 1, 2], 'df': 5, 'term': 'problem', 'docnum': [2, 3, 5, 11, 17], 'tf': 6}
+{'count': [1, 1], 'df': 2, 'term': 'property', 'docnum': [10, 15], 'tf': 2}
+{'count': [1], 'df': 1, 'term': 'range', 'docnum': [10], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 're-entry', 'docnum': [19], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'react', 'docnum': [4], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'real-gas', 'docnum': [10], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'realistic', 'docnum': [19], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'reduce', 'docnum': [17], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'relate', 'docnum': [7], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'relative', 'docnum': [19], 'tf': 1}
+{'count': [1], 'doclen': 13, 'term': 'result', 'docnum': [19], 'tf': 1, 'df': 1}
+{'count': [1, 1, 1], 'df': 3, 'term': 'revolution', 'docnum': [16, 17, 18], 'tf': 3}
+{'count': [1], 'df': 1, 'term': 'shock-sound', 'docnum': [14], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'show', 'docnum': [4], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'similarity', 'docnum': [1], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'simplicity', 'docnum': [19], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'simplify', 'docnum': [4], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'slab', 'docnum': [3], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'slip', 'docnum': [9], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'solution', 'docnum': [4], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'solve', 'docnum': [3], 'tf': 1}
+{'count': [1, 1], 'df': 2, 'term': 'speed', 'docnum': [1, 2], 'tf': 2}
+{'count': [1], 'df': 1, 'term': 'structural', 'docnum': [2], 'tf': 1}
+{'count': [1], 'doclen': 7, 'term': 'study', 'docnum': [9], 'tf': 1, 'df': 1}
+{'count': [1], 'df': 1, 'term': 'surface', 'docnum': [7], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'system', 'docnum': [5], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'theoretical', 'docnum': [6], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'three-dimensional', 'docnum': [17], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'transfer', 'docnum': [9], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'transonic', 'docnum': [13], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'transport', 'docnum': [10], 'tf': 1}
+{'count': [1, 1], 'df': 2, 'term': 'transverse', 'docnum': [16, 17], 'tf': 2}
+{'count': [1], 'df': 1, 'term': 'treatment', 'docnum': [19], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'turbulent', 'docnum': [6], 'tf': 1}
+{'count': [1], 'doclen': 8, 'term': 'two-dimensional', 'docnum': [17], 'tf': 1, 'df': 1}
+{'count': [1], 'df': 1, 'term': 'validity', 'docnum': [4], 'tf': 1}
+{'count': [1, 1], 'df': 2, 'term': 'wave', 'docnum': [11, 14], 'tf': 2}
+{'count': [1], 'df': 1, 'term': 'wide', 'docnum': [10], 'tf': 1}
+{'count': [1], 'df': 1, 'term': 'zero', 'docnum': [7], 'tf': 1}

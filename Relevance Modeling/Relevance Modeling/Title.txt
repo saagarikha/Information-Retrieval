@@ -1,0 +1,1400 @@
+{'docnum': 1, 'title': 'experimental investigation of the aerodynamics of awing in a slipstream .'}
+{'docnum': 2, 'title': 'simple shear flow past a flat plate in an incompressible fluid of smallviscosity .'}
+{'docnum': 3, 'title': 'the boundary layer in simple shear flow past a flat plate .'}
+{'docnum': 4, 'title': 'approximate solutions of the incompressible laminarboundary layer equations for a plate in shear flow .'}
+{'docnum': 5, 'title': 'one-dimensional transient heat conduction into a double-layerslab subjected to a linear heat input for a small timeinternal .'}
+{'docnum': 6, 'title': 'one-dimensional transient heat flow in a multilayerslab .'}
+{'docnum': 7, 'title': 'the effect of controlled three-dimensional roughnesson boundary layer transition at supersonic speeds .'}
+{'docnum': 8, 'title': 'measurements of the effect of two-dimensional and three-dimensionalroughness elements on boundary layer transition .'}
+{'docnum': 9, 'title': 'transition studies and skin friction measurements onan insulated flat plate at a mach number of 5.8.'}
+{'docnum': 10, 'title': 'the theory of the impact tube at low pressure .'}
+{'docnum': 11, 'title': 'similar solutions in compressible laminar free mixingproblems .'}
+{'docnum': 12, 'title': 'some structural and aerelastic considerations of highspeed flight .'}
+{'docnum': 13, 'title': 'similarity laws for stressing heated wings .'}
+{'docnum': 14, 'title': 'piston theory - a new aerodynamic tool for the aeroelastician.'}
+{'docnum': 15, 'title': 'on two-dimensional panel flutter .'}
+{'docnum': 16, 'title': 'transformation of the compressible turbulent boundarylayer .'}
+{'docnum': 17, 'title': 'remarks on the eddy viscosity in compressible mixing flows .'}
+{'docnum': 18, 'title': 'the flow field in the diffuser of a radial compressor .'}
+{'docnum': 19, 'title': 'an investigation of the pressure distribution on conical bodies inhypersonic flows .'}
+{'docnum': 20, 'title': 'generalised-newtonian theory .'}
+{'docnum': 21, 'title': 'on heat transfer in slip flow .'}
+{'docnum': 22, 'title': 'on slip-flow heat transfer to a flat plate .'}
+{'docnum': 23, 'title': 'skin-friction and heat transfer characteristics ofa laminar boundary layer on a cylinder in axial incompressibleflow .'}
+{'docnum': 24, 'title': 'theory of stagnation point heat transfer in dissociatedair .'}
+{'docnum': 25, 'title': 'inviscid hypersonic flow over blunt-nosed slender bodies .'}
+{'docnum': 26, 'title': 'inviscid leading-edge effect in hypersonic flow .'}
+{'docnum': 27, 'title': 'newtonian flow theory for slender bodies .'}
+{'docnum': 28, 'title': 'a note on the explosion solution of sedov with applicationto the newtonian theory of unsteady hypersonic flow .'}
+{'docnum': 29, 'title': 'a simple model study of transient temperature and thermalstress distribution due to aerodynamic heating .'}
+{'docnum': 30, 'title': 'photo-thermoelastic investigation of transient thermalstresses in a multiweb wing structure .'}
+{'docnum': 31, 'title': 'thermal buckling of supersonic wing panels .'}
+{'docnum': 32, 'title': 'the dynamic motion of a missile descending throughthe atmosphere .'}
+{'docnum': 33, 'title': 'the prospects for magneto-aerodynamics .'}
+{'docnum': 34, 'title': 'constant-temperature magneto-gasdynamic channel flow .'}
+{'docnum': 35, 'title': 'stagnation point of a blunt body in hypersonic flow .'}
+{'docnum': 36, 'title': 'supersonic flow around blunt bodies .'}
+{'docnum': 37, 'title': 'a new technique for investigating heat transfer andsurface phenomena under hypersonic flow conditions .'}
+{'docnum': 38, 'title': 'on the prediction of mixed subsonic/supersonic pressuredistributions .'}
+{'docnum': 39, 'title': 'on the flow of a sonic stream past an airfoil surface .'}
+{'docnum': 40, 'title': 'experiments on boundary layer transition at supersonicspeeds .'}
+{'docnum': 41, 'title': 'on transition experiments at moderate supersonic speeds .'}
+{'docnum': 42, 'title': 'the gyroscopic effect of a rigid rotating propelleron engine and wing vibration modes .'}
+{'docnum': 43, 'title': 'the relation between wall temperature and the effectof roughness on boundary layer transition .'}
+{'docnum': 44, 'title': 'tip-bluntness effects on cone pressures at m=6.85.'}
+{'docnum': 45, 'title': 'an investigation of separated flows, part ii: flowin the cavity and heat transfer .'}
+{'docnum': 46, 'title': 'some comments on the inversion of certain large matrices .'}
+{'docnum': 47, 'title': 'analysis of low-aspect-ratio aircraft structures .'}
+{'docnum': 48, 'title': 'supersonic flow at the surface of a circular cone atangle of attack .'}
+{'docnum': 49, 'title': 'temperature and velocity profiles in the compressiblelaminar boundary layer with arbitrary distributionof surface temperature .'}
+{'docnum': 50, 'title': 'investigation of laminar boundary layer in compressiblefluids using the crocco method .'}
+{'docnum': 51, 'title': 'theory of aircraft structural models subjected to aerodynamicheating and external loads .'}
+{'docnum': 52, 'title': 'procedure for calculating flutter at high supersonicspeed including camber deflections, and comparisonwith experimental results .'}
+{'docnum': 53, 'title': 'transition reynolds numbers of separated flows at supersonicspeeds .'}
+{'docnum': 54, 'title': 'method for calculation of compressible laminar boundarylayer characteristics in axial pressure gradient withzero heat transfer .'}
+{'docnum': 55, 'title': 'separation, stability and other properties of compressiblelaminar boundary layer with pressure gradient and heattransfer .'}
+{'docnum': 56, 'title': 'an analysis of the applicability of the hypersonicsimilarity law to the study of the flow about bodiesof revolution at zero angle of attack .'}
+{'docnum': 57, 'title': 'applicability of the hypersonic similarity rule topressure distributions which include the effects ofrotation for bodies of revolution at zero angle ofattack .'}
+{'docnum': 58, 'title': 'pressure measurements on sharp and blunt 5 and 15 half-anglecones at mach number 3.86 and angles of attack to100 .'}
+{'docnum': 59, 'title': 'tables of exact laminar-boundary layer solutions whenthe wall is porous and fluid properties are variable .'}
+{'docnum': 60, 'title': 'estimation forces and moments due to rolling for severalslender tail configurations at supersonic speeds .'}
+{'docnum': 61, 'title': 'on flow of electrically conducting fluids over a flatplate in the presence of a transverse magnetic field .'}
+{'docnum': 62, 'title': 'similar solutions for the compressible laminar boundarylayer with heat transfer and pressure gradient .'}
+{'docnum': 63, 'title': 'hypersonic viscous flow over slender cones .'}
+{'docnum': 64, 'title': 'unsteady oblique interaction of a shock wave with planedisturbances .'}
+{'docnum': 65, 'title': 'convection of a pattern of vorticity through a shockwave .'}
+{'docnum': 66, 'title': 'some effects of joint conductivity on the temperatureand thermal stresses in aerodynamically heated skin-stiffenercombinations .'}
+{'docnum': 67, 'title': 'dynamic stability of vehicles traversing ascendingor descending paths through the atmosphere .'}
+{'docnum': 68, 'title': 'some aspects of air-helium simulation and hypersonicapproximations .'}
+{'docnum': 69, 'title': 'predicted shock envelopes about two types of vehiclesat large angles of attack .'}
+{'docnum': 70, 'title': 'a study of flow changes associated with airfoil sectiondrag rise at supercritical speeds .'}
+{'docnum': 71, 'title': 'laminar boundary layer behind shock advancing intostationary fluid .'}
+{'docnum': 72, 'title': 'boundary layer behind shock or thin expansion wavemoving into stationary fluid .'}
+{'docnum': 73, 'title': 'investigation of the stability of the laminar boundarylayer in a compressible fluid .'}
+{'docnum': 74, 'title': 'an experimental study of the turbulen coundary layeron a shock tube wall .'}
+{'docnum': 75, 'title': 'studies of structural failure due to acoustic loading .'}
+{'docnum': 76, 'title': 'flight measurement of wall pressure fluctuations andboundary-layer turbulence .'}
+{'docnum': 77, 'title': 'a comparative analysis of the performance of long rangehypervelocity vehicles .'}
+{'docnum': 78, 'title': 'an analytical treatment of aircraft propeller precessioninstability .'}
+{'docnum': 79, 'title': 'effects of extreme surface cooling on boundary layertransition .'}
+{'docnum': 80, 'title': 'effect of distributed three-dimensional roughness andsurface cooling on boundary layer transition and lateralspread of turbulence at supersonic speeds .'}
+{'docnum': 81, 'title': 'compressible laminar flow and heat transfer about arotating isothermal disk .'}
+{'docnum': 82, 'title': 'theoretical investigation of the ablation of a glass-typeheat protection shield of varied material propertiesat the stagnation point of a re-entering irbm .'}
+{'docnum': 83, 'title': 'discussion of solar proton events and manned spaceflights .'}
+{'docnum': 84, 'title': 'experimental investigation of the downstream influenceof stagnation point mass transfer .'}
+{'docnum': 85, 'title': 'on trails of axisymmetric hypersonic blunt bodies flyingthrough the atmosphere .'}
+{'docnum': 86, 'title': 'inviscid-incompressible flow theory of static peripheraljets in proximity to the ground .'}
+{'docnum': 87, 'title': 'free-convection magnetohydrodynamic flow past a porous flat plate .'}
+{'docnum': 88, 'title': 'magnetohydrodynamic free-convection pipe flow .'}
+{'docnum': 89, 'title': 'an investigation of separated flows, part i: the pressurefield .'}
+{'docnum': 90, 'title': 'periodic temperature distributions in a two-layer compositeslab .'}
+{'docnum': 91, 'title': 'periodic temperature distribution in a two-layer composite slab .'}
+{'docnum': 92, 'title': 'the analysis of redundant structures by the use ofhigh-speed digital computers .'}
+{'docnum': 93, 'title': 'the supersonic blunt body problem - review and extensions .'}
+{'docnum': 94, 'title': 'the transverse curvature effect in compressible axiallysymmetric laminar boundary layer flow .'}
+{'docnum': 95, 'title': 'temperature distribution and thermal stresses in amodel of a supersonic wing .'}
+{'docnum': 96, 'title': 'review of published data on the effect of roughness on transition fromlaminar to turbulent flow .'}
+{'docnum': 97, 'title': 'a mixing theory for the interaction between dissipativeflows and nearly isentropic streams .'}
+{'docnum': 98, 'title': 'heat transfer by laminar flow to a rotating plate .'}
+{'docnum': 99, 'title': 'the fundamentals of the statistical theory of turbulence .'}
+{'docnum': 100, 'title': 'vibration isolation of aircraft power plants .'}
+{'docnum': 101, 'title': 'laminar heat transfer over blunt-nosed bodies at hypersonic flightspeeds .'}
+{'docnum': 102, 'title': 'advantages and limitations of models .'}
+{'docnum': 103, 'title': 'theory of mixing and chemical reaction in the opposedjet diffusion flame .'}
+{'docnum': 104, 'title': 'similar solutions of a free convection boundary layerequation for an electrically conducting fluid .'}
+{'docnum': 105, 'title': 'the asymptotic boundary layer on a circular cylinderin axial incompressible flow .'}
+{'docnum': 106, 'title': 'the transverse potential flow past a body of revolution .'}
+{'docnum': 107, 'title': 'on the mixing of two parallel streams .'}
+{'docnum': 108, 'title': 'properties of the confluent hypergeometric function .'}
+{'docnum': 109, 'title': 'the production of uniform shear flow in a wind tunnel .'}
+{'docnum': 110, 'title': 'dynamics of a dissociating gas .'}
+{'docnum': 111, 'title': 'the laminar boundary layer equation: a method of solutionby means of an automatic computer .'}
+{'docnum': 112, 'title': 'steady motion of conducting fluids in pipes under transversemagnetic fields .'}
+{'docnum': 113, 'title': 'acoustical signal detection in turbulent airflow .'}
+{'docnum': 114, 'title': 'response of plates to a decaying and convecting randonpressure field .'}
+{'docnum': 115, 'title': 'on turbulent lubrication .'}
+{'docnum': 116, 'title': 'the elliptic cylinder in a shear flow with hyperbolicvelocity profile .'}
+{'docnum': 117, 'title': 'the motion of a viscous liquid past a paraboloid .'}
+{'docnum': 118, 'title': 'the transonic flow of a compressible fluid throughan axially symmetrical nozzle .'}
+{'docnum': 119, 'title': 'conduction of fluctuating heat flow in a wall consistingof many layers .'}
+{'docnum': 120, 'title': 'measurement of convective heat transfer by means ofthe reynolds analogy .'}
+{'docnum': 121, 'title': 'a theory for base pressures in transonic and supersonicflow .'}
+{'docnum': 122, 'title': 'a simplified approximate method for the calculation of the pressurearound conical bodies of arbitrary shape in supersonic and hypersonicflow .'}
+{'docnum': 123, 'title': 'the downstream influence of mass transfer at the noseof a slender cone .'}
+{'docnum': 124, 'title': 'a summary of the supersonic pressure drag of bodiesof revolution .'}
+{'docnum': 125, 'title': 'measurements of skin friction of the compressible turbulentboundary layer on a cone with foreign gas injection .'}
+{'docnum': 126, 'title': 'an investigation of two-dimensional supersonic basepressures .'}
+{'docnum': 127, 'title': 'supersonic axially symmetric nozzles .'}
+{'docnum': 128, 'title': 'effects of free stream vorticity on the behaviour ofa viscous boundary layer .'}
+{'docnum': 129, 'title': 'an investigation of the noise produced by a subsonic air jet .'}
+{'docnum': 130, 'title': 'the behaviour of non-linear systems .'}
+{'docnum': 131, 'title': 'two-dimensional jet mixing of a compressible fluid .'}
+{'docnum': 132, 'title': 'viscosity effects in sound waves of finite amplitude:in survey in mechanics .'}
+{'docnum': 133, 'title': 'some effects of surface curvature on laminar boundarylayer flow .'}
+{'docnum': 134, 'title': 'note on an interaction between the boundary layer and the inviscidflow .'}
+{'docnum': 135, 'title': 'the calculation of wall shearing stress from heat-transfer measurementsin compressible flows .'}
+{'docnum': 136, 'title': 'recent developments in rocket nozzle configurations .'}
+{'docnum': 137, 'title': 'the generation of sound by aerodynamic means .'}
+{'docnum': 138, 'title': 'wakes in axial compressors .'}
+{'docnum': 139, 'title': 'viscous effects on pitot tubes at low speeds .'}
+{'docnum': 140, 'title': 'the determination of turbulent skin friction by meansof pitot tubes .'}
+{'docnum': 141, 'title': 'free-flight techniques for high speed aerodynamic research .'}
+{'docnum': 142, 'title': 'the problem of aerodynamic heating .'}
+{'docnum': 143, 'title': 'interplanetary orbits .'}
+{'docnum': 144, 'title': 'heat flow in composite slabs .'}
+{'docnum': 145, 'title': 'skin friction in the laminar boundary layer in compressibleflow .'}
+{'docnum': 146, 'title': 'supersonic flow past slender bodies with discontinuousprofile slope .'}
+{'docnum': 147, 'title': 'supersonic flow past slender pointed wings with ?similar?cross sections at zero lift .'}
+{'docnum': 148, 'title': 'on displacement thickness .'}
+{'docnum': 149, 'title': 'expansions at small reynolds number for the flow pasta sphere and a circular cylinder .'}
+{'docnum': 150, 'title': 'integration of the boundary layer equations .'}
+{'docnum': 151, 'title': 'the generation of noise by isotropic turbulence .'}
+{'docnum': 152, 'title': 'on the flow of compressible fluid past an obstacle .'}
+{'docnum': 153, 'title': 'on the steady motion of viscous, incompressible fluids,with particular reference to a variation principle .'}
+{'docnum': 154, 'title': 'velocity and temperature distributions in the turbulentwake behind a heated body of revolution .'}
+{'docnum': 155, 'title': 'on the solution of the laminar boundary layer equations .'}
+{'docnum': 156, 'title': 'the effect of shallow water on wave resistance .'}
+{'docnum': 157, 'title': 'the hodographic transformation in transonic flow .'}
+{'docnum': 158, 'title': 'temperature charts for induction and constant temperatureheating .'}
+{'docnum': 159, 'title': 'numerical methods for transient heat flow .'}
+{'docnum': 160, 'title': 'approximate analytical solutions for hypersonic flowpast slender power-law bodies .'}
+{'docnum': 161, 'title': 'supersonic flow past a family of blunt symmetric bodies .'}
+{'docnum': 162, 'title': 'nearly circular transfer trajectories for descendingsatellites .'}
+{'docnum': 163, 'title': 'an analysis of the corridor and guidance requirementsfor supercircular entry planetary atmospheres .'}
+{'docnum': 164, 'title': 'an approximate analytical method for studying entryinto planetary atospheres .'}
+{'docnum': 165, 'title': 'skin-friction measurements in incompressible flow.'}
+{'docnum': 166, 'title': 'flow of chemically reacting gas mixtures .'}
+{'docnum': 167, 'title': 'linearized flow of a dissociating gas .'}
+{'docnum': 168, 'title': 'heat conduction through a gas with one inert internalmodel .'}
+{'docnum': 169, 'title': 'on the sudden contact between a hot gas and a cold solid .'}
+{'docnum': 170, 'title': 'the interaction of a reflected shock wave with theboundary layer in a shock tube .'}
+{'docnum': 171, 'title': 'a low density wind tunnel study of shock wave structureand relaxation phenomena in gases .'}
+{'docnum': 172, 'title': 'some aerodynamic considerations of nozzle afterbodycombination .'}
+{'docnum': 173, 'title': 'the effect of a central jet on the base pressure ofa cylindrical afterbody in a supersonic stream .'}
+{'docnum': 174, 'title': 'investigation at supersonic speeds of the effects ofjet mach number and divergence angle of the nozzleupon the pressure of the base annulus of a body ofrevolution .'}
+{'docnum': 175, 'title': 'experiments with static tubes in a supersonic airstream .'}
+{'docnum': 176, 'title': 'base pressure at subsonic speeds in the presence ofa supersonic jet .'}
+{'docnum': 177, 'title': 'the mixing of free axially-symmetrical jets of mach number 1.40 .'}
+{'docnum': 178, 'title': 'on full dispersed shock waves in carbon dioxide .'}
+{'docnum': 179, 'title': 'an analysis of base pressure at supersonic speeds andcomparison with experiment .'}
+{'docnum': 180, 'title': 'boundary layer over a flat plate in presence of shearflow .'}
+{'docnum': 181, 'title': 'some problems on heat conduction in stratiform bodies .'}
+{'docnum': 182, 'title': 'effect of roughness on transition in supersonic flow .'}
+{'docnum': 183, 'title': 'properties of impact pressure probes in free moleculeflow .'}
+{'docnum': 184, 'title': 'scale models for thermo-aeroelastic research .'}
+{'docnum': 185, 'title': 'some possibilities of using gas mixtures other than inaerodynamic research .'}
+{'docnum': 186, 'title': 'base pressure in supersonic flow .'}
+{'docnum': 187, 'title': 'investigation of separated flows in supersonic and subsonicstreams with emphasis on the effect of transition .'}
+{'docnum': 188, 'title': 'an analysis of base pressure at supersonic velocities andcomparison with experiment .'}
+{'docnum': 189, 'title': 'experimental investigation of base pressure on blunt-trailing-edgewings of supersonic velocities .'}
+{'docnum': 190, 'title': 'on magnetohydrodynamic shock waves .'}
+{'docnum': 191, 'title': 'a theory for the core of a leading edge vortex .'}
+{'docnum': 192, 'title': 'on the hypersonic viscous flow past slender bodiesof revolution .'}
+{'docnum': 193, 'title': 'a study of inviscid flow about air foils at high supersonicspeeds .'}
+{'docnum': 194, 'title': 'general theory of airfoil sections having arbitraryshape or pressure distribution .'}
+{'docnum': 195, 'title': 'correlation of theoretical and photo-thermoelasticresults on thermal stresses in idealized wing structure .'}
+{'docnum': 196, 'title': 'pressure distributions . axially symmetric bodies inoblique flow .'}
+{'docnum': 197, 'title': 'pressure distributions on three bodies of revolutionto determine the effect of reynolds number up to andincluding the transonic speed range .'}
+{'docnum': 198, 'title': 'investigation of a systematic group of naca 1 - seriescowlings with and without spinners .'}
+{'docnum': 199, 'title': 'measurement of two dimensional derivatives on a wing-aileron-tabsystem .'}
+{'docnum': 200, 'title': 'calculation of derivatives for a cropped delta wingwith subsonic leading edges oscillating in a supersonicairstream .'}
+{'docnum': 201, 'title': 'supersonic flow past oscillating airfoils includingnonlinear thickness effects .'}
+{'docnum': 202, 'title': 'aircraft flutter .'}
+{'docnum': 203, 'title': 'calculated velocity distributions and force derivativesfor a series of high-speed aerofoils .'}
+{'docnum': 204, 'title': 'a study of the application of airfoil section datato the estimation of the high subsonic speed characteristicsof swept wings .'}
+{'docnum': 205, 'title': 'a correlation of airfoil section data with the aerodynamicloads measured on a 45 sweptback wing at subsonic machnumbers .'}
+{'docnum': 206, 'title': 'the applications of the polygon method to the calculationof the compressible subsonic flow round two-dimensionalprofiles .'}
+{'docnum': 207, 'title': 'laminar boundary layer oscillations and transitionon a flat plate .'}
+{'docnum': 208, 'title': 'the hall effect in the viscous flow of ionized gasbetween parallel plates under transverse magnetic field .'}
+{'docnum': 209, 'title': 'boundary layer induced noise in the interior of aircraft .'}
+{'docnum': 210, 'title': 'propeller in yaw .'}
+{'docnum': 211, 'title': 'effect of slight blunting of leading edge of an immersedbody on the flow around it at hypersonic speed .'}
+{'docnum': 212, 'title': 'theory and tunnel tests of rotor blade for supersonicturbines .'}
+{'docnum': 213, 'title': 'the performance of supersonic turbine nozzles .'}
+{'docnum': 214, 'title': 'on the testing of supersonic compressor cascades .'}
+{'docnum': 215, 'title': 'the test performance of highly loaded turbine stagesdesigned for high pressure ratio .'}
+{'docnum': 216, 'title': 'the supersonic axial flow compressor .'}
+{'docnum': 217, 'title': 'flow pattern in a converging-diverging nozzle .'}
+{'docnum': 218, 'title': 'intensity, scale and spectra of turbulence in mixingregion of free subsonic jet .'}
+{'docnum': 219, 'title': 'on the strength distribution of noise sources alonga jet .'}
+{'docnum': 220, 'title': 'a general purpose analogue correlator for the analysis ofrandom noise signals .'}
+{'docnum': 221, 'title': 'a theoretical study of annular supersonic nozzles .'}
+{'docnum': 222, 'title': 'the flow over delta wings at low speeds with leadingedge separation .'}
+{'docnum': 223, 'title': 'a note on the theory of the stanton tube .'}
+{'docnum': 224, 'title': 'quasi-cylindrical surfaces with prescribed loadingsin the linearised theory of supersonic flow .'}
+{'docnum': 225, 'title': 'elliptic cones alone and with wings at supersonic speeds .'}
+{'docnum': 226, 'title': 'aerofoil theory of a flat delta wing at supersonicspeeds .'}
+{'docnum': 227, 'title': 'a technique for improving the predictions of linearisedtheory on the drag of straight edge wings .'}
+{'docnum': 228, 'title': 'navier-stokes solutions at large distances from a finite body .'}
+{'docnum': 229, 'title': 'interference between the wings and tail surfaces ofa combination of slender body, cruciform wings andcruciform tail set at both incidence and yaw .'}
+{'docnum': 230, 'title': 'interference between the wings and tail plane of aslender wing-body tailplane combination .'}
+{'docnum': 231, 'title': 'practical calculation of second-order supersonic flowpast non-lifting bodies of revolution .'}
+{'docnum': 232, 'title': 'accuracy of approximate methods for predicting pressureon pointed non-lifting bodies of revolution in supersonicflow .'}
+{'docnum': 233, 'title': 'the theoretical wave drag of some bodies of revolution .'}
+{'docnum': 234, 'title': 'a second order shock-expansion method applicable tobodies of revolution near zero lift .'}
+{'docnum': 235, 'title': 'on the minimisation and numerical evaluation of wavedrag .'}
+{'docnum': 236, 'title': 'criteria for thermodynamic equilibrium in gas flow .'}
+{'docnum': 237, 'title': 'a compressor routine test code .'}
+{'docnum': 238, 'title': 'on a determination of the pitot-static tube factorat low reynolds numbers, with special reference tothe measurement of low air speeds .'}
+{'docnum': 239, 'title': 'design and calibration at low speeds of a static tubeand a pitot-static tube with semi-ellipsoidal noseshapes .'}
+{'docnum': 240, 'title': 'a theoretical analysis of heat transfer in regions of separated flow'}
+{'docnum': 241, 'title': 'laminar mixing of a non-uniform stream with a fluidat rest .'}
+{'docnum': 242, 'title': 'an approximate theory of base pressure in two dimensionalflow at supersonic speeds .'}
+{'docnum': 243, 'title': 'investigation with an interferometer of the turbulentmixing of a free supersonic jet .'}
+{'docnum': 244, 'title': 'an improved smoke generator for use in the visualisationof airflow, particularly boundary layer flow at highreynolds numbers .'}
+{'docnum': 245, 'title': 'the ground effect on the jet flap in two dimensions .'}
+{'docnum': 246, 'title': 'the design of minimum drag tip fins . with an appendix- on the conformal transformation of a wing with afin .'}
+{'docnum': 247, 'title': 'the calculation of the pressure distribution on thickwings of small aspect ratio at zero lift in subsonicflow .'}
+{'docnum': 248, 'title': 'the application of lighthill formula for numericalcalculation of pressure distributions on bodies ofrevolution at supersonic speed and zero angle of attack .'}
+{'docnum': 249, 'title': 'formulae for the computation of the functions employedfor calculating the velocity distribution about a givenaerofoil .'}
+{'docnum': 250, 'title': 'pressure distributions at zero lift for delta wingswith rhombic cross sections .'}
+{'docnum': 251, 'title': 'a collection of longitudinal stability derivativesof wings at supersonic speeds .'}
+{'docnum': 252, 'title': 'an investigation of interference effects on similar models ofdifferent size in various transonic tunnels in the u.k. .'}
+{'docnum': 253, 'title': 'on the ground level disturbance from large aircraftflying at supersonic speeds .'}
+{'docnum': 254, 'title': 'boundary layers with suction and injection . a reviewof published work on skin friction .'}
+{'docnum': 255, 'title': 'an approximate solution of the turbulent boundary layerequations in incompressible and compressible .'}
+{'docnum': 256, 'title': 'an experimental study of the glancing interaction betweena shock wave and a turbulent boundary layer .'}
+{'docnum': 257, 'title': 'on turbulen flow between parallel plates .'}
+{'docnum': 258, 'title': 'the effect of turbulence on slider bearing lubrication .'}
+{'docnum': 259, 'title': 'second order theory for unsteady supersonic flowpast slender pointed bodies of revolution .'}
+{'docnum': 260, 'title': 'a critical review of skin friction and heat transfersolutions of the laminar boundary layer of a flat plate .'}
+{'docnum': 261, 'title': 'experiments on axi-symmetric boundary layers alonga long cylinder in incompressible flow .'}
+{'docnum': 262, 'title': 'the formation of a blast wave by a very intense explosion .'}
+{'docnum': 263, 'title': 'cylindrical shock waves produced by instantaneous energyrelease .'}
+{'docnum': 264, 'title': 'asymptotic solution of the two dimensional oscillatingaerofoil problem for high subsonic mach numbers .'}
+{'docnum': 265, 'title': 'some instabilities arising from the interaction betweenshock waves and boundary layer .'}
+{'docnum': 266, 'title': 'exact solution of the neumann problem . calculationfor non- circulatory plane and axially symmetric flowsabout or within arbitrary boundaries .'}
+{'docnum': 267, 'title': 'steady and transient free convection of an electricallyconducting fluid from a vertical plate in the presenceof a magnetic field .'}
+{'docnum': 268, 'title': 'several magnetohydrodynamic free-convection solutions .'}
+{'docnum': 269, 'title': 'on a laminar free-convection flow and heat transferof electrically conducting fluid on a vertical flatplate in the presence of a transverse magnetic field .'}
+{'docnum': 270, 'title': 'on combined free and forced convection laminar magnetohydrodynamicflow and heat transfer in channels with transversemagnetic field .'}
+{'docnum': 271, 'title': 'an experimental test of compressibility transformationfor turbulent boundary layer .'}
+{'docnum': 272, 'title': 'oscillatory aerodynamic coefficients for a unified supersonichypersonic strip theory .'}
+{'docnum': 273, 'title': 'flow past slender blunt bodies - a review and extension .'}
+{'docnum': 274, 'title': 'analysis of quartz and teflon shields for a particularre-entry mission .'}
+{'docnum': 275, 'title': 'the effect of lift on entry corridor depth and guidancerequirements for the return lunar flight .'}
+{'docnum': 276, 'title': 'reaction tests of turbine nozzles for supersonic velocities .'}
+{'docnum': 277, 'title': 'study of flow conditions and deflection angle at exitof two-dimensional cascade of turbine rotor bladesat critical and supercritical pressure ratios .'}
+{'docnum': 278, 'title': 'on source and vortex distributions in the linearisedtheory of steady supersonic flow .'}
+{'docnum': 279, 'title': 'supersonic drag calculations for a cylindrical shellwing of semicircular cross section combined with acentral body of revolution .'}
+{'docnum': 280, 'title': 'the surface oil flow technique as used in high speedwind tunnels in the united kingdom .'}
+{'docnum': 281, 'title': 'higher order approximations for relaxation oscillations .'}
+{'docnum': 282, 'title': 'jet effects on base pressure of conical afterbodiesat mach 1. 91 and 3. 12 .'}
+{'docnum': 283, 'title': 'laminar heat transfer around blunt bodies in dissociatedair .'}
+{'docnum': 284, 'title': 'the divergence of supersonic wings including chordwisebending .'}
+{'docnum': 285, 'title': 'on the flutter of panels at high mach numbers .'}
+{'docnum': 286, 'title': 'effect of roll on dynamic instability of symmetricmissiles .'}
+{'docnum': 287, 'title': 'some theoretical low-speed loading characteristicsof swept wings in roll and sideslip .'}
+{'docnum': 288, 'title': 'the rolling up of the trailing vortex sheet and itseffect on the downwash behind wings .'}
+{'docnum': 289, 'title': 'a theoretical study of the aerodynamics of slendercruciform-wing arrangements and their wakes .'}
+{'docnum': 290, 'title': 'dynamic stability of a missile in rolling flight .'}
+{'docnum': 291, 'title': 'sweepback effects in the turbulent boundary-layer shock-waveinteraction .'}
+{'docnum': 292, 'title': 'rapid laminar boundary layer calculations by piece-wiseapplication of similar solutions .'}
+{'docnum': 293, 'title': 'recent studies on the effect of cooling on boundarylayer transition at mach 4.'}
+{'docnum': 294, 'title': 'an investigation of laminar transitional and turbulentheat transfer on blunt-nosed bodies in hypersonic flow .'}
+{'docnum': 295, 'title': 'a note on transitional heat transfer under hypersonic conditions .'}
+{'docnum': 296, 'title': 'notes on waves through gases at pressures small comparedwith the magnetic pressure, with applications to upperatmosphere aerodynamics .'}
+{'docnum': 297, 'title': 'compressibility effects in magneto-aerodynamic flowspast thin bodies .'}
+{'docnum': 298, 'title': 'incompressible wedge flows of an electrically conductingviscous fluid in the presence of a magnetic field .'}
+{'docnum': 299, 'title': 'magnetohydrodynamic flow past a semi-infinite plate .'}
+{'docnum': 300, 'title': 'on a particular class of similar solutions of the equationsof motion and energy of a viscous fluid .'}
+{'docnum': 301, 'title': 'approximate design of sharp-cornered supersonic nozzles .'}
+{'docnum': 302, 'title': 'approximations for the thermodynamic and transport properties of hightemperature air .'}
+{'docnum': 303, 'title': 'effect of variable heat recombination on stagnationpoint heat transfer .'}
+{'docnum': 304, 'title': 'first-order approach to a strong interaction problemin hypersonic flow over an insulated flat plate .'}
+{'docnum': 305, 'title': 'hypersonic strong viscous interaction on a flat platewith surface mass transfer .'}
+{'docnum': 306, 'title': 'second approximation to laminar compressible boundarylayer on flat plate in slip flow .'}
+{'docnum': 307, 'title': 'an approximate solution of hypersonic laminar boundarylayer equations and its application .'}
+{'docnum': 308, 'title': 'on the hypersonic viscous flow past a flat plate withsuction or injection .'}
+{'docnum': 309, 'title': 'on the motion of a flat plate at high speed in a viscouscompressible fluid, ii, steady motion .'}
+{'docnum': 310, 'title': 'hypersonic viscous flow over a flat plate'}
+{'docnum': 311, 'title': 'a method for predicting the onset of buffeting and other separationeffects from wind tunnel tests on rigid models .'}
+{'docnum': 312, 'title': 'chordwise pressure distributions over several naca16 series airfoils at transonic mach numbers up to1.25 .'}
+{'docnum': 313, 'title': 'on alternative forms for the basic equations of transonicflow theory .'}
+{'docnum': 314, 'title': 'simplified method for determination of the criticalheight of distributed roughness particles for boundarylayer transition at mach numbers from 0 to 5.'}
+{'docnum': 315, 'title': 'scale effects at high subsonic and transonic speedsand methods for fixing transition in model experiments .'}
+{'docnum': 316, 'title': 'the occurrence and development of boundary layer separations at highincidences and high speeds .'}
+{'docnum': 317, 'title': 'non-equilibrium flow of an ideal dissociating gas .'}
+{'docnum': 318, 'title': 'inviscid hypersonic flow past blunt bodies .'}
+{'docnum': 319, 'title': 'propagation of weak disturbances in a gas subject torelaxation effects .'}
+{'docnum': 320, 'title': 'comment on improved numerical solution of the blasius problem withthree-point boundary conditions .'}
+{'docnum': 321, 'title': 'improved numerical solution of the blasius problem with three-pointboundary conditions .'}
+{'docnum': 322, 'title': 'on the numerical solution of the blasius problem with three-pointboundary conditions .'}
+{'docnum': 323, 'title': 'vorticity interaction at an axisymmetric stagnationpoint in a viscous incompressible fluid .'}
+{'docnum': 324, 'title': 'vorticity effect on the stagnation point flow of a viscous incompressiblefluid .'}
+{'docnum': 325, 'title': 'heat transfer to constant property laminar boundarylayer flows with power function free stream velocityand wall temperature variation .'}
+{'docnum': 326, 'title': 'forst-order slip effects on the compressible laminarboundary layer over a slender body of revolution inaxial flow .'}
+{'docnum': 327, 'title': 'on local flat plate similarity in the hypersonic boundarylayer .'}
+{'docnum': 328, 'title': 'the boundary layer near the stagnation point in hypersonicflow past a sphere .'}
+{'docnum': 329, 'title': 'various aerodynamic characteristics in hypersonic rarefiedgas flow .'}
+{'docnum': 330, 'title': 'taylor instability of finite surface waves .'}
+{'docnum': 331, 'title': 'effects of surface tension and viscosity on taylorinstability .'}
+{'docnum': 332, 'title': 'similitude of hypersonic real-gas flows over slenderbodies with blunted noses .'}
+{'docnum': 333, 'title': 'boundary-layer interaction on a yawed infinite wing in hypersonicflow .'}
+{'docnum': 334, 'title': 'influence of the leading-edge shock wave on the laminar boundary layerat hypersonic speeds .'}
+{'docnum': 335, 'title': 'the interaction between boundary layer and shock waves in transonicflow .'}
+{'docnum': 336, 'title': 'simplified laminar boundary layer calculations forbodies of revolution and for yawed wings .'}
+{'docnum': 337, 'title': 'boundary layer transition with gas injection .'}
+{'docnum': 338, 'title': 'mass transfer cooling at mach number 4. 8.'}
+{'docnum': 339, 'title': 'experimental evaluation of heat transfer with transpirationcooling in a turbulent boundary layer at m=3 .2.'}
+{'docnum': 340, 'title': 'analysis of effects of diffusion of a foreign gas intothe laminar boundary layer of a supersonic flow ofair in a tube .'}
+{'docnum': 341, 'title': 'the analytical design of an axially symmetric lavalnozzle for a parallel and uniform jet .'}
+{'docnum': 342, 'title': 'effect of diffusion fields on the laminar boundarylayer .'}
+{'docnum': 343, 'title': 'transpiration cooling experiments in a turbulent boundarylayer at m=3 .'}
+{'docnum': 344, 'title': 'some experimental techniques in mass transfer cooling .'}
+{'docnum': 345, 'title': 'the interaction of shock waves with boundary layeron a flat surface .'}
+{'docnum': 346, 'title': 'measurements of turbulent friction on a smooth flat plate in supersonic'}
+{'docnum': 347, 'title': 'boundary layer measurements in hypersonic flow .'}
+{'docnum': 348, 'title': 'turbulent boundary layer in compressible fluids .'}
+{'docnum': 349, 'title': 'numerical solution of the boundary layer equationswithout similarity assumptions .'}
+{'docnum': 350, 'title': 'laminar jet mixing of two compressible fluids with heat release .'}
+{'docnum': 351, 'title': 'thermal distributions in jeffrey-hamel flows between nonparallel planewalls .'}
+{'docnum': 352, 'title': 'on heat transfer over a sweat-cooled surface in laminarcompressible flow with a pressure gradient .'}
+{'docnum': 353, 'title': 'the effect of helium injection at an axially symmetric stagnationpoint .'}
+{'docnum': 354, 'title': 'laminar heat-transfer and pressure measurements over blunt-nosedcones at large angle of attack .'}
+{'docnum': 355, 'title': 'the injection of air into the dissociated hypersonic laminar boundarylayer .'}
+{'docnum': 356, 'title': 'on optimum nose curves for missiles in the super-aerodynamicregime .'}
+{'docnum': 357, 'title': 'optimum nose shapes for missiles in the super-aerodynamicregion .'}
+{'docnum': 358, 'title': 'on the model of the free shock separation, turbulentboundary layer .'}
+{'docnum': 359, 'title': 'note on the hypersonic similarity law for an unyawedcone .'}
+{'docnum': 360, 'title': 'lift on inclined bodies of revolution in hypersonic flow .'}
+{'docnum': 361, 'title': 'the flow of a viscous liquid past a flat plate at smallreynolds number .'}
+{'docnum': 362, 'title': 'three-dimensional effect of flutter in a real fluid .'}
+{'docnum': 363, 'title': 'an alternative formulation of the problem of flutterin real fluids .'}
+{'docnum': 364, 'title': 'a method for analysing the insulating properties ofthe laminar compressible boundary layer .'}
+{'docnum': 365, 'title': 'the homogeneous boundary layer at an axisymmetric stagnationpoint with large rates of injection .'}
+{'docnum': 366, 'title': 'helium injection into the boundary layer at an axisymmetricstagnation point .'}
+{'docnum': 367, 'title': 'control system and analysis and design via the second method oflyapunov .'}
+{'docnum': 368, 'title': 'some problems of polar missile control .'}
+{'docnum': 369, 'title': 'an approximate solution of the supersonic blunt body                   problem for prescribed arbitrary axisymmetric shapes .                 '}
+{'docnum': 370, 'title': 'theoretical pressure distribution on a hemisphere-cylindercombination .'}
+{'docnum': 371, 'title': 'note on tip-bluntness effects in the supersonic andhypersonic regimes .'}
+{'docnum': 372, 'title': 'an experimental investigation of flow about simpleblunt bodies at a nominal mach number of 5. 8.'}
+{'docnum': 373, 'title': 'the generalized expansion method and its applicationto bodies travelling at high supersonic airspeeds .'}
+{'docnum': 374, 'title': 'an investigation of optimum zoom climb techniques .'}
+{'docnum': 375, 'title': 'steady flow in the laminar boundary layer of a gas .'}
+{'docnum': 376, 'title': 'transformation between compressible and incompressibleboundary layer equations .'}
+{'docnum': 377, 'title': 'a turbulent analog of the stewartson-illingworth transformation .'}
+{'docnum': 378, 'title': 'engineering relations for friction and heat transfer to surfaces in high velocity flow .'}
+{'docnum': 379, 'title': 'reverse flow and variational theorems for lifting surfacesin nonstationary compressible flow .'}
+{'docnum': 380, 'title': 'effect of quasi-steady air forces on incompressiblebending-torsion flutter .'}
+{'docnum': 381, 'title': 'the axisymmetric boundary layer on a long thin cylinder .'}
+{'docnum': 382, 'title': 'a note on the laminar boundary layer on a circular cylinder inaxial incompressible flow .'}
+{'docnum': 383, 'title': 'integration of the boundary layer equations for a plane in compressibleflow with heat transfer .'}
+{'docnum': 384, 'title': 'application of second-order shock-expansion theoryto several types of bodies of revolution .'}
+{'docnum': 385, 'title': 'on a generalised porous-wall ?couette type? flow .'}
+{'docnum': 386, 'title': 'a generalised porous-wall ?couette type? flow .'}
+{'docnum': 387, 'title': 'heat transfer for laminar flow in an annulus with porouswall .'}
+{'docnum': 388, 'title': 'the pressure gradient induced by shear flow past aflat plate .'}
+{'docnum': 389, 'title': 'simple shear flow past a flat plate in a compressibleviscous fluid .'}
+{'docnum': 390, 'title': 'some panel-flutter studies using piston theory .'}
+{'docnum': 391, 'title': 'flutter of rectangular simply supported panels at highsupersonic speeds .'}
+{'docnum': 392, 'title': 'natural frequencies of rectangular plates with edgeselastically restrained against rotation .'}
+{'docnum': 393, 'title': 'the shear flow along a flat plate with uniform suction .'}
+{'docnum': 394, 'title': 'the viscous flow near a stagnation point when the external flow hasuniform vorticity .'}
+{'docnum': 395, 'title': 'new methods in heat flow analysis with applicationto flight structures .'}
+{'docnum': 396, 'title': 'variational and lagrangian thermodynamics of thermalconvection-fundamental shortcomings of the heat transfercoefficient .'}
+{'docnum': 397, 'title': 'a sublayer for fluid injection into the incompressibleturbulent boundary layer .'}
+{'docnum': 398, 'title': 'heat transfer in turbulent shear flow .'}
+{'docnum': 399, 'title': 'conduction of heat in composite slabs .'}
+{'docnum': 400, 'title': 'buckling stress of clamped rectangular plates in shear .'}
+{'docnum': 401, 'title': 'inviscid hypersonic airflows with coupled non-equilibriumprocesses .'}
+{'docnum': 402, 'title': 'magnetohydrodynamics shocks .'}
+{'docnum': 403, 'title': 'magnetohydrodynamic shock waves .'}
+{'docnum': 404, 'title': 'two dimensional transonic flow past airfoils .'}
+{'docnum': 405, 'title': 'tables of thermal properties of gases .'}
+{'docnum': 406, 'title': 'on the behaviour of boundary layers at supersonic speeds .'}
+{'docnum': 407, 'title': 'stationary convection flow of an electrically conductingliquid between parallel plates in a magnetic field .'}
+{'docnum': 408, 'title': 'on convective motion of a conducting fluid betweenparallel vertical plates in a magnetic field .'}
+{'docnum': 409, 'title': 'on the base pressure resulting from the interaction of a supersonic externalstream with a sonic or subsonic jet .'}
+{'docnum': 410, 'title': 'the supersonic flow about a blunt body of revolutionfor gases at chemical equilibrium .'}
+{'docnum': 411, 'title': 'data on shape and location of detached shock wavesin cones and sphere .'}
+{'docnum': 412, 'title': 'critical combinations of shear and transverse directstress for an infinitely long flat plate with'}
+{'docnum': 413, 'title': 'turbulent skin friction at high mach numbers and reynoldsnumbers in air and helium . nasa r82, 1960 .'}
+{'docnum': 414, 'title': 'the problem of resistance in compressible fluids .'}
+{'docnum': 415, 'title': 'the aerodynamic design of section shapes for swept wings .'}
+{'docnum': 416, 'title': 'methods of boundary-layer control for postponing and alleviatingbuffeting and other effects of shock-induced separation .'}
+{'docnum': 417, 'title': 'on the stability of two dimensional parallel flows .'}
+{'docnum': 418, 'title': 'transition form laminar to turbulent shear flow .'}
+{'docnum': 419, 'title': 'the design of intermediate vertical stiffeners on webplates subjected to shear .'}
+{'docnum': 420, 'title': 'an experimental study of the flow field about swept and delta wingswith sharp leading edges .'}
+{'docnum': 421, 'title': 'analytic study of induced pressure on long bodies ofrevolution with varying nose bluntness at hypersonicspeeds .'}
+{'docnum': 422, 'title': 'bending of a square plate with two adjacent edges freeand the others clamped or simply supported .'}
+{'docnum': 423, 'title': 'an experimental investigation of the flow over blunt-nosedcones at a mach number of 5. 8.'}
+{'docnum': 424, 'title': 'cantilever plate with concentrated edge load .'}
+{'docnum': 425, 'title': 'the solution of elastic plate problems by electrical analogies .'}
+{'docnum': 426, 'title': 'preliminary analysis of axial flow compressors havingsupersonic velocity at the entrance of the stator .'}
+{'docnum': 427, 'title': 'flow of gas through turbine lattices .'}
+{'docnum': 428, 'title': 'the quasi-cylinder of specified thickness and shellloading in supersonic flow .'}
+{'docnum': 429, 'title': 'a description of the r. a. e.  high speed supersonictunnel .'}
+{'docnum': 430, 'title': 'calibration of the flow in the mach 4 working sectionof the 4ft . x 3ft . high supersonic speed wind tunnelat rae bedford .'}
+{'docnum': 431, 'title': 'free-flight measurements of the zero-lift drag andbase pressure on a wind tunnel interference model (m=0 .8 - 1. 5) .'}
+{'docnum': 432, 'title': 'theoretical damping in roll and rolling moment dueto differential wing incidence for slender cruciformwings and wing-body combinations .'}
+{'docnum': 433, 'title': 'application of two dimensional vortex theory to theprediction of flow fields behind wings of wing-bodycombinations at subsonic and supersonic speeds .'}
+{'docnum': 434, 'title': 'contributions of the wing panels to the forces andmoments of supersonic wing-body combinations at combinedangles .'}
+{'docnum': 435, 'title': 'application of similar solutions to calculations oflaminar heat transfer on bodies with yaw and largepressure gradients in high speed flow .'}
+{'docnum': 436, 'title': 'heat transfer in planetary atmospheres at super-satellite speeds .'}
+{'docnum': 437, 'title': 'hypervelocity stagnation point heat transfer .'}
+{'docnum': 438, 'title': 'stagnation point heat transfer measurements at supersatellite speeds .'}
+{'docnum': 439, 'title': 'a factor affecting transonic leading edge flow separation .'}
+{'docnum': 440, 'title': 'compilation of information on the transonic attachmentof flows at the leading edge of airfoils .'}
+{'docnum': 441, 'title': 'evaluation of high angle-of-attack aerodynamic derivativedata and stall-flutter prediction techniques .'}
+{'docnum': 442, 'title': 'some effects of variations in several parameters includingfluid density on the flutter speed of light uniformcantilever wings .'}
+{'docnum': 443, 'title': 'calculated and measured pressure distributions over the midspan sectionof the naca 4412 airfoil .'}
+{'docnum': 444, 'title': 'an approach to the flutter problem in real fluids .'}
+{'docnum': 445, 'title': 'on the application of mathieu functions in the theoryof subsonic compressible flow past oscillating airfoils .'}
+{'docnum': 446, 'title': 'wake of a satellite traversing the ionosphere .'}
+{'docnum': 447, 'title': 'motion of thin bodies in a highly rarefied plasma .'}
+{'docnum': 448, 'title': 'induction drag on a large negatively charged satellitemoving in a magnetic-field-free ionosphere .'}
+{'docnum': 449, 'title': 'interaction of a charged satellite with the ionosphere .'}
+{'docnum': 450, 'title': 'some physical interpretations of magnetohydrodynamic duct flows .'}
+{'docnum': 451, 'title': "liapunov's methods in automatic control theory ."}
+{'docnum': 452, 'title': 'symmetric joukowsky airfoils in shear flow .'}
+{'docnum': 453, 'title': 'the influence of two-dimensional stream shear on airfoil maximum lift .'}
+{'docnum': 454, 'title': 'several approximate analyses of the bending of a rectangularcantilever plate by uniform normal pressure .'}
+{'docnum': 455, 'title': 'modified cross-lees mixing theory for supersonic separatedand reattaching flows .'}
+{'docnum': 456, 'title': 'a study of flow fields about some typical blunt-nosedslender bodies .'}
+{'docnum': 457, 'title': 'on laminar boundary-layer flow near a position of separation .'}
+{'docnum': 458, 'title': 'a new series for calculation of steady laminar boundarylayer flows .'}
+{'docnum': 459, 'title': 'on the solution of the laminar boundary layer equations .'}
+{'docnum': 460, 'title': 'correlated incompressible and compressible boundarylayers .'}
+{'docnum': 461, 'title': 'approximate methods fore predicting separation propertiesof laminar boundary layers .'}
+{'docnum': 462, 'title': 'photo-thermoelasticity .'}
+{'docnum': 463, 'title': 'physical properties of plastics for photo-thermoelasticinvestigation .'}
+{'docnum': 464, 'title': 'flow studies on flat plate delta wings at supersonicspeeds .'}
+{'docnum': 465, 'title': 'slender delta wings with sharp edges at zero lift .'}
+{'docnum': 466, 'title': 'development of the vapour screen method of flowvisualization in the 3ft tunnel at rae bedford.'}
+{'docnum': 467, 'title': 'thin airfoil theory based on approximate solution of the transonic flowequation .'}
+{'docnum': 468, 'title': 'a refinement of the linearised transonic flow theory .'}
+{'docnum': 469, 'title': 'linearised transonic flow about slender bodies at zeroangle of attack .'}
+{'docnum': 470, 'title': 'some notes for the small disturbance linear theoryof the method of local linearisation of the flow overan airfoil at mach number of unity .'}
+{'docnum': 471, 'title': ''}
+{'docnum': 472, 'title': 'waves in supersonic flow .'}
+{'docnum': 473, 'title': 'freeman method .'}
+{'docnum': 474, 'title': 'laminar mixing of a compressible fluid .'}
+{'docnum': 475, 'title': 'the velocity distribution in the laminar boundary layerbetween parallel streams .'}
+{'docnum': 476, 'title': 'the blasius equation with three-point boundary conditions .'}
+{'docnum': 477, 'title': 'laminar boundary layers at the interface of co-currentparallel streams .'}
+{'docnum': 478, 'title': 'tabulation of the blasius function with blowing andsuction .'}
+{'docnum': 479, 'title': "on an equation occurring in falkner and skan's approximatetreatment of the equation of the boundary layer ."}
+{'docnum': 480, 'title': 'adiabatic wall temperature due to mass transfer cooling with acombustible gas .'}
+{'docnum': 481, 'title': 'mass transfer cooling of a laminary boundary layerby injection of a light weight foreign gas .'}
+{'docnum': 482, 'title': 'a re-examination of the use of the simple conceptsfor prediction the shape and location of detached shockwaves .'}
+{'docnum': 483, 'title': 'stagnation point shock detachment distance for flowaround spheres and cylinder .'}
+{'docnum': 484, 'title': 'the influence of two-dimensional stream shear for airfoilmaximum lift .'}
+{'docnum': 485, 'title': 'linear heat flow in a composite slab .'}
+{'docnum': 486, 'title': 'similarity laws for aerothermoelastic testing .'}
+{'docnum': 487, 'title': 'theory for supersonic two-dimensional, laminar, base-typeflows using the crocco-lees mixing concepts .'}
+{'docnum': 488, 'title': 'a reaction-rate parameter for gasdynamics of a chemicallyreacting gas mixture .'}
+{'docnum': 489, 'title': 'on calculation of the laminar separation point andresults of certain flows .'}
+{'docnum': 490, 'title': 'normal-shock relations in magnetohydrodynamics .'}
+{'docnum': 491, 'title': 'on the close relationship between turbulent plane-couetteand pressure flows .'}
+{'docnum': 492, 'title': 'prediction of ogive-forebody pressures at angles of attack .'}
+{'docnum': 493, 'title': 'real-gas laminar boundary layer skin friction and heattransfer .'}
+{'docnum': 494, 'title': 'axisymmetric viscous flow plast very slender bodiesof revolution .'}
+{'docnum': 495, 'title': 'on similar solutions for strong blast waves and theirapplication to steady hypersonic flow .'}
+{'docnum': 496, 'title': 'a theory of transonic aileron buzz, neglecting viscouseffects .'}
+{'docnum': 497, 'title': 'theoretical and experimental investigation of thermalstresses in hypersonic aircraft wing structures .'}
+{'docnum': 498, 'title': 'calculation of potential flow about bodies of revolutionhaving axes perpendicular to the free-stream direction .'}
+{'docnum': 499, 'title': 'a closed-form solution for the oscillations of a vehicleentering a planetary atmosphere .'}
+{'docnum': 500, 'title': 'joule heating in magnetohydrodynamic free-convectionflows .'}
+{'docnum': 501, 'title': 'stagnation-point shock detachment of blunt bodies insupersonic flow .'}
+{'docnum': 502, 'title': "on squire's test of the compressibility transformation ."}
+{'docnum': 503, 'title': 'theoretical prediction of the transonic characteristicsof airfoils .'}
+{'docnum': 504, 'title': 'stability of compressible boundary layers induced bya moving wave .'}
+{'docnum': 505, 'title': 'transition measurements on cones in free flight ballisticsrange tests .'}
+{'docnum': 506, 'title': "a note on havelock's shallow-water wave-resistancecurves ."}
+{'docnum': 507, 'title': 'energy equation approximations in fluid mechanics .'}
+{'docnum': 508, 'title': 'a correlation of nose-bluntness induced pressures oncylindrical and conical after-bodies at hypersonicspeeds .'}
+{'docnum': 509, 'title': 'a graphical approximation for temperatures and sublimation rates atsurfaces subjected to small net and large gross heat transfer rates .'}
+{'docnum': 510, 'title': 'manoeuvring technique for changing the plane of circularorbits with minimum fuel expenditure .'}
+{'docnum': 511, 'title': 'tunnel tests on a double cascade to determine the interactionbetween the rotor and the nozzles of a supersonic turbine .'}
+{'docnum': 512, 'title': 'quasi-cylindrical surfaces with prescribed thicknessdistributions .'}
+{'docnum': 513, 'title': 'pressure measurements at supersonic speeds on threeuncambered conical wings of unit aspect ratio .'}
+{'docnum': 514, 'title': 'pressure distributions and flow patterns on some conicalshapes with sharp edges and symmetrical cross-sectionsat m=4 .0.'}
+{'docnum': 515, 'title': 'self sustained oscillations of a system with non-lineardamping of a particular type .'}
+{'docnum': 516, 'title': 'free-flight measurements of the dynamic longitudinalstability characteristics of a wind tunnel interferencemodel (m=0 .92 to 1. 35) .'}
+{'docnum': 517, 'title': 'reaction-resisted shock fronts .'}
+{'docnum': 518, 'title': 'heat conduction through a polyatomic gas .'}
+{'docnum': 519, 'title': 'base pressure at supersonic speeds in the presenceof a supersonic jet .'}
+{'docnum': 520, 'title': "wing-tail interference as a cause of 'magnus' effectson a finned missile ."}
+{'docnum': 521, 'title': 'a note on application of transonic linearization toan airfoil with a round leading edge .'}
+{'docnum': 522, 'title': 'laminar, transitional and turbulent heat transfer toa cone-cylinder-flare body at mach 8. 0.'}
+{'docnum': 523, 'title': 'approximate determination of position of the sonicline for a blunt body in hypersonic flow .'}
+{'docnum': 524, 'title': 'stagnation point heat transfer in partially ionizedair .'}
+{'docnum': 525, 'title': 'on hypersonic viscous flow over an insulated flat platewith surface mass transfer .'}
+{'docnum': 526, 'title': 'leading edge attachment in transonic flow with laminaror turbulent boundary layers .'}
+{'docnum': 527, 'title': 'note on the three-point boundary layer problem forthe blasius equations .'}
+{'docnum': 528, 'title': 'first-order slip effects on the laminar boundary layer over a slenderbody of revolution with zero pressure gradient .'}
+{'docnum': 529, 'title': 'some effects of injection of foreign gases in a deceleratinglaminar boundary layer in supersonic flow .'}
+{'docnum': 530, 'title': 'an aerodynamic analysis for flutter in oseen-type viscousflow .'}
+{'docnum': 531, 'title': 'the flow about a moving body in the upper ionosphere .'}
+{'docnum': 532, 'title': 'pitch-yaw stability of a missile oscillating in rollvia the second method of lyapunov .'}
+{'docnum': 533, 'title': 'stagnation-point shock-detachment distance for flowaround spheres and cylinders in air .'}
+{'docnum': 534, 'title': 'consideration of energy separation for laminar slipflow in a circular tube .'}
+{'docnum': 535, 'title': 'shroud design for simulating hypersonic flow over the nose of ahemisphere .'}
+{'docnum': 536, 'title': 'transition in the viscous wakes of blunt bodies athypersonic speeds .'}
+{'docnum': 537, 'title': 'stagnation point viscous hypersonic flow .'}
+{'docnum': 538, 'title': 'the conpressibility transformation and the turbulentboundary layer equations .'}
+{'docnum': 539, 'title': 'local heat transfer to a yawed, infite, circular cylinderin laminar compressible flow .'}
+{'docnum': 540, 'title': 'use of local similarity concepts in hypersonic viscousinteraction problems .'}
+{'docnum': 541, 'title': 'similitude of hypersonic flows over slender bodiesin non-equilibrium dissociated gases .'}
+{'docnum': 542, 'title': "biot's variational principle in heat conduction ."}
+{'docnum': 543, 'title': 'the stacking of compressor stage characteristics togive an overall compressor performance map .'}
+{'docnum': 544, 'title': 'a theoretical and experimental study of oscillating wedge shapedaerofoils in hypersonic flow .'}
+{'docnum': 545, 'title': 'calculation of sideslip derivatives and pressure distributionin asymmetric flight conditions on a slender wing-finconfiguration .'}
+{'docnum': 546, 'title': 'measurements of aerodynamic heating on a 15 cone ofgraded wall thickness at a mach number of 6. 8.'}
+{'docnum': 547, 'title': 'boundary layer characteristics of caret wings .'}
+{'docnum': 548, 'title': 'the contraction of satellite orbits under the influenceof air drag . pt .iv with scale height dependent onaltitude .'}
+{'docnum': 549, 'title': 'experimental study of the velocity and temperaturedistribution in a high-velocity vortex-type flow .'}
+{'docnum': 550, 'title': 'laminar heat transfer in tubes under slip-flow conditions .'}
+{'docnum': 551, 'title': 'analysis of a loaded cantilever plate by finite differencemethods .'}
+{'docnum': 552, 'title': 'chemical kinetics of high temperature air .'}
+{'docnum': 553, 'title': 'ablation of glassy materials around blunt bodies ofrevolution .'}
+{'docnum': 554, 'title': 'generalized heat transfer formulas and graphs .'}
+{'docnum': 555, 'title': 'closing reply to comments on generalized heat transferformulas and graphs for nose cone re-entry into theatmosphere .'}
+{'docnum': 556, 'title': 'numerical comparison between exact and approximatetheories of hypersonic inviscid flow past slender bluntnosed bodies .'}
+{'docnum': 557, 'title': 'a numerical comparison between exact and approximatetheories of hypersonic inviscid flow past slender bluntnosed bodies .'}
+{'docnum': 558, 'title': 'experimental measurements of turbulent transition motion,statistics and gross radial growth behind hypervelocity object.'}
+{'docnum': 559, 'title': 'heat transfer at the forward stagnation point of bluntbodies .'}
+{'docnum': 560, 'title': 'a theoretical study of the effect of upstream transpiration-coolingon the heat transfer and skin friction characteristicsof a compressible laminar boundary layer .'}
+{'docnum': 561, 'title': 'a geometric problem related to the optimum distributionof lift on a planar wing in supersonic flow .'}
+{'docnum': 562, 'title': 'concerning the effect of compressibility on laminarboundary layers and their separation .'}
+{'docnum': 563, 'title': 'the law of the wake in the turbulent boundary layer .'}
+{'docnum': 564, 'title': 'local heat transfer and recovery temperature on a yawedcylinder at a mach number of 4. 15 and high reynoldsnumbers .'}
+{'docnum': 565, 'title': 'similar solutions for the compressible boundary layeron a yawed cylinder with transpiration cooling .'}
+{'docnum': 566, 'title': 'investigation of local heat transfer and pressure dragcharacteristics of a yawed circular cylinder at supersonicspeeds .'}
+{'docnum': 567, 'title': 'aerodynamic characteristics of a circular cylinderat mach number of 6. 86 and angles of attack up to90 .'}
+{'docnum': 568, 'title': 'shock wave effects on the laminar skin friction ofan insulated flat plate at hypersonic speeds .'}
+{'docnum': 569, 'title': 'an experimental investigation of leading edge shock wave boundary layerinteraction at mach 5.8 .'}
+{'docnum': 570, 'title': 'on the boundary layer equations in hypersonic flowand their approximate solutions .'}
+{'docnum': 571, 'title': 'heat transfer to flat plate in high temperature rarefiedultra-high mach number flow .'}
+{'docnum': 572, 'title': 'boundary layer displacement and leading edge bluntness effects in hightemperature hypersonic flow .'}
+{'docnum': 573, 'title': 'viscous hypersonic similitude .'}
+{'docnum': 574, 'title': 'inviscid flow with nonequilibrium molecular dissociation for pressuredistributions encountered in hypersonic flight .'}
+{'docnum': 575, 'title': 'atomic recombination in a hypersonic wind tunnel nozzle .'}
+{'docnum': 576, 'title': 'viscous and inviscid stagnation flow in a dissociated hypervelocity free stream .'}
+{'docnum': 577, 'title': 'on hypersonic similitude .'}
+{'docnum': 578, 'title': 'dissociation scaling for nonequilibrium blunt nose flows .'}
+{'docnum': 579, 'title': 'further developments of new methods in heat flow analysis .'}
+{'docnum': 580, 'title': 'new thermo-mechanical reciprocity relations with applicationto thermal stress analysis .'}
+{'docnum': 581, 'title': 'approximate formulas for thermal-stress analysis .'}
+{'docnum': 582, 'title': 'the melting of finite slabs .'}
+{'docnum': 583, 'title': 'influence coefficients for real gases .'}
+{'docnum': 584, 'title': 'conduction of heat in a solid with a power law of heattransfer at its surface .'}
+{'docnum': 585, 'title': 'nonlinear heat transfer problem .'}
+{'docnum': 586, 'title': 'an approximate treatment of unsteady heat conductionin semi-infinite solids with variable thermal properties .'}
+{'docnum': 587, 'title': 'variational analysis of ablation .'}
+{'docnum': 588, 'title': 'compressor operation with one or more blade rows stalled .'}
+{'docnum': 589, 'title': 'some stall and surge phenomena in axial flow compressors .'}
+{'docnum': 590, 'title': 'effects of stage characteristics and matching on axial flow compressorperformance .'}
+{'docnum': 591, 'title': 'an approximate equation for the /choke line/ of a compressor .'}
+{'docnum': 592, 'title': 'design of axial compressors .'}
+{'docnum': 593, 'title': 'theoretical considerations of flutter at high machnumber .'}
+{'docnum': 594, 'title': 'wind tunnel techniques for the measurements of oscillatory derivatives.'}
+{'docnum': 595, 'title': 'the equilibrium piston technique for gun tunnel operation .'}
+{'docnum': 596, 'title': 'the properties of crossed flexure pivots, and the influence of thepoint at which the strips cross .'}
+{'docnum': 597, 'title': 'measurements of pitching moment derivatives for blunt-nose aerofoilsoscillating in two-dimensional supersonic flow .'}
+{'docnum': 598, 'title': 'new test techniques for a hypervelocity wind tunnel .'}
+{'docnum': 599, 'title': 'aerodynamic forces, moments and stability derivativesfor slender bodies of general cross section .'}
+{'docnum': 600, 'title': 'the calculation of lateral stability derivatives ofslender wings at incidence including fin effectiveness,and correlation with experiment .'}
+{'docnum': 601, 'title': 'calculation of the flow past slender delta wings withleading edge separation .'}
+{'docnum': 602, 'title': 'the 7 x 7 in . hypersonic wind tunnel at rae farnborough,part 1, design, instrumentation and flow visualizationtechniques .'}
+{'docnum': 603, 'title': 'the 7 in. x 7 in. hypersonic wind tunnel at r.a.e. farnboroughpart ii. heater performance .'}
+{'docnum': 604, 'title': 'the 7 in. x 7 in. hypersonic wind tunnel at r.a.e., farnboroughpart iii - calibration of the flow in the working section .'}
+{'docnum': 605, 'title': 'pressure measurements on a cone-cylinder-flare configuration at smallincidences for m 6.8 .'}
+{'docnum': 606, 'title': 'formulae and approximations for aerodynamic heating rates in high speedflight .'}
+{'docnum': 607, 'title': 'duct flow in magnetohydrodynamics .'}
+{'docnum': 608, 'title': 'aerodynamic noise in supersonic wind tunnels .'}
+{'docnum': 609, 'title': 'on three dimensional bodies of delta planform whichcan support plane attached shock waves .'}
+{'docnum': 610, 'title': 'corner interference effects .'}
+{'docnum': 611, 'title': 'an approximate solution of the compressible laminarboundary layer on a flat plate .'}
+{'docnum': 612, 'title': "pressure distributions and flow patterns at m=4 . onsome delta wings of inverted 'v' cross section ."}
+{'docnum': 613, 'title': 'the contraction of satellite orbits under the influence of air dragpart i . with spherically symmetrical atmosphere .'}
+{'docnum': 614, 'title': 'the contraction of satellite orbits under the influence of air drag .'}
+{'docnum': 615, 'title': 'the contraction of satellite orbits under the influence of air drag .part iii . high eccentricity orbits . /0.2 e 1/'}
+{'docnum': 616, 'title': 'determination of upper-atmosphere air density and scale height fromsatellite observations .'}
+{'docnum': 617, 'title': 'determination of upper-atmosphere air density profile from satelliteobservations .'}
+{'docnum': 618, 'title': 'orbit decay and prediction of the motion of artificial satellites .'}
+{'docnum': 619, 'title': 'density of the upper atmosphere from analysis of satellite orbits ..further results .'}
+{'docnum': 620, 'title': 'earth satellite observations and the upper atmosphere .'}
+{'docnum': 621, 'title': 'latitude and diurnal variations of air densities from 190 to 280 km.as derived from the orbits of discoverer satellites .'}
+{'docnum': 622, 'title': 'scale height in the upper atmosphere, derived from changes in satelliteorbits .'}
+{'docnum': 623, 'title': 'on the coupling between heat and mass transfer .'}
+{'docnum': 624, 'title': 'cruise performance of channel-flow ground effect machines .'}
+{'docnum': 625, 'title': 'viscous and inviscid nonequilibrium gas flows .'}
+{'docnum': 626, 'title': 'some features of supersonic and hypersonic flow aboutblunted cones .'}
+{'docnum': 627, 'title': 'flutter analysis of circular panels .'}
+{'docnum': 628, 'title': 'thermal effects on a transpiration cooled hemisphere .'}
+{'docnum': 629, 'title': 'second-order effects in laminar boundary layers .'}
+{'docnum': 630, 'title': 'stagnation region in rarefied high mach number flow .'}
+{'docnum': 631, 'title': 'low speed wind tunnel tests on a two dimensional aerofoilwith split flap near the ground .'}
+{'docnum': 632, 'title': 'calculated lift distributions in incompressible flowon some sweptback wings .'}
+{'docnum': 633, 'title': 'an extension of the method of generalised conical flowsfor lifting wings in supersonic flow .'}
+{'docnum': 634, 'title': 'effects of leading edge bluntness on flutter characteristicsof some square- planform double-wedge airfoils at amach number of 15 .4.'}
+{'docnum': 635, 'title': 'heat transfer and pressure distributions on a hemisphere-cylinder and abluff-afterbody modelin methane-air combustion products and in air'}
+{'docnum': 636, 'title': 'pressure distribution induced on a flat plate at a free-streammach number of 1.39 by rockets exhausting upstream and downstream .'}
+{'docnum': 637, 'title': 'an integral equation relating the general time-dependent lift anddownwash distributions on finite wings in subsonic flow .'}
+{'docnum': 638, 'title': 'longitudinal aerodynamic characteristics at low subsonicspeeds of a highly swept wing utilizing nose deflectionfor control .'}
+{'docnum': 639, 'title': 'analytical study of the tumbling motions of vehiclesentering planetary atmospheres .'}
+{'docnum': 640, 'title': 'the design of structures to resist jet noise fatigue .'}
+{'docnum': 641, 'title': 'reduction of the clamped plate to two membrane problemswith an application to uniformly loaded sectors .'}
+{'docnum': 642, 'title': 'the buckling strength of a uniform circular cylinderloaded in axial compression .'}
+{'docnum': 643, 'title': 'an investigation of wing-aileron flutter using groundlaunched rocket models .'}
+{'docnum': 644, 'title': 'a study of the cantilever square plate subjected toa uniform loading .'}
+{'docnum': 645, 'title': 'thermodynamic coupling in boundary layers .'}
+{'docnum': 646, 'title': 'thermal diffusion effects on energy transfer in a turbulentboundary layer with helium injection'}
+{'docnum': 647, 'title': 'bending of a uniformly loaded rectangular plate withtwo adjacent edges and the others either simply supportedor free .'}
+{'docnum': 648, 'title': 'the approximate analysis of certain boundary valueproblems .'}
+{'docnum': 649, 'title': 'the hovercraft - a new concept in maritime transport .'}
+{'docnum': 650, 'title': 'some design problems of hovercraft .'}
+{'docnum': 651, 'title': 'heat transfer to separated and reattached subsonicturbulen flows obtained downstream of a surface step .'}
+{'docnum': 652, 'title': 'pressure distribution on two dimensional wings nearthe ground .'}
+{'docnum': 653, 'title': 'transient magnetohydrodynamic duct flow .'}
+{'docnum': 654, 'title': 'on the propagation and structure of the blast wave . part 1.'}
+{'docnum': 655, 'title': 'effects of boundary layer displacement and leading edge bluntness onpressure distribution, skin friction, and heat transfer of bodies athypersonic speeds .'}
+{'docnum': 656, 'title': 'departure from dissociation equilibrium in a hypersonic nozzle .'}
+{'docnum': 657, 'title': 'interferometric studies of supersonic flows about truncatedcones .'}
+{'docnum': 658, 'title': 'review of panel flutter and effects of aerodynamic noisepart i..  panel flutter .'}
+{'docnum': 659, 'title': 'nonuniform shear flow past cylinders .'}
+{'docnum': 660, 'title': 'the fundamental solution for small steady three dimensionaldisturbances to a two dimensional parallel shear flow .'}
+{'docnum': 661, 'title': 'summary of laminar boundary layer solutions for wedgetypeflow over convection and transpiration cooledsurfaces .'}
+{'docnum': 662, 'title': 'theoretical and experimental investigation of aerodynamicheatingand isothermal heat transfer parameters ona hemisphere nose with laminar boundary layer at supersonicmach numbers .'}
+{'docnum': 663, 'title': 'viscous flow along a flat plate moving at high speeds .'}
+{'docnum': 664, 'title': 'the boundary layer on a flat plate in a stream withuniform shear .'}
+{'docnum': 665, 'title': 'on the theory of hypersonic gas flow with a power lawshock wave .'}
+{'docnum': 666, 'title': 'blunt body heat transfer at hypersonic speed and low reynolds numbers .'}
+{'docnum': 667, 'title': 'hypersonic shock layer theory of the stagnation region at low reynoldsnumber .'}
+{'docnum': 668, 'title': 'measurements of stagnation point heat transfer at lowreynolds number .'}
+{'docnum': 669, 'title': 'subsonic potential flow past a sphere inside a cylindrical duct .'}
+{'docnum': 670, 'title': 'on blunt-body heat transfer at hypersonic speed and low reynoldsnumber .'}
+{'docnum': 671, 'title': 'pressure and boundary-layer measurements on a two dimensional wing atlow speed .'}
+{'docnum': 672, 'title': 'tunnel interference effects .'}
+{'docnum': 673, 'title': 'investigation of full scale split trailing edge wingflaps with various chords and hinge locations .'}
+{'docnum': 674, 'title': 'the shapes and lift-dependent drags on some sweptbackwings designed for m= 1. 2.'}
+{'docnum': 675, 'title': 'pressure distribution and surface flow on 5( and 9( thick wings withcurved tip and 60degree sweepback .'}
+{'docnum': 676, 'title': 'a simple method for calculating the span and chordwise loading onstraight and swept wings of any aspect ratio at subsonic speeds .'}
+{'docnum': 677, 'title': 'methods for calculating the lift distribution of wings /subsonic liftingsurface theory/ .'}
+{'docnum': 678, 'title': 'the effect of end plates on swept wings .'}
+{'docnum': 679, 'title': 'low speed tests on 45 sweptback wings .'}
+{'docnum': 680, 'title': 'generalized conical flow fields in supersonic wing theory .'}
+{'docnum': 681, 'title': 'integrals and integral equations in linearized wing theory .'}
+{'docnum': 682, 'title': 'the lift of twisted and cambered wings in supersonic flow .'}
+{'docnum': 683, 'title': 'the use of conical camber to produce flow attachment at the leadingedge of a delta wing and to minimize the lift-dependent drag at sonicand supersonic speeds .'}
+{'docnum': 684, 'title': 'tables of complete elliptic integrals .'}
+{'docnum': 685, 'title': 'aerodynamic effects of some configuration variableson the aeroelastic characteristics of lifting surfacesat mach numbers from 0. 7 to 6. 86 .'}
+{'docnum': 686, 'title': 'flutter tests of some simple models at a mach numberof 7. 2 in helium flow .'}
+{'docnum': 687, 'title': 'oscillating airfoils at high mach number .'}
+{'docnum': 688, 'title': 'tables of aerodynamic coefficients obtained from developed newtonianexpressions for complete and partial conic and spheric bodies at combinedangles of attack and sideslip with some comparisons with hypersonicexperimental data .'}
+{'docnum': 689, 'title': 'investigation of the laminar aerodynamics heat transfercharacteristics of a hemisphere cylinder in the langley11-inch hypersonic tunnel at a mach number of 6. 8.'}
+{'docnum': 690, 'title': 'investigaion of the flow over a spiked-nose hemispherecylinder at a mach number of 6. 8.'}
+{'docnum': 691, 'title': 'calculation procedure for thermodynamic transport, and flow propertiesof the combustion products of a hydrocarbon fuel mixture burned in airwith results for ethylene-air and methane-air mixtures .'}
+{'docnum': 692, 'title': 'investigation of the jet effects on a flat surface downstream of theexit of a simulated turbojet nacelle at a free-stream mach number of2.02 .'}
+{'docnum': 693, 'title': 'investigation of jet effects on a flat surface downstream of the exit of a simulated turbojet nacelle at a free-stream mach number of 1.39 .'}
+{'docnum': 694, 'title': 'pressure distribution induced on a flat plate by a supersonic and sonicjet exhaust at a free-stream mach number of 1.80 .'}
+{'docnum': 695, 'title': 'some experiments relating to the problem of simulation of hot jetengines in studies of jet effects on adjacent surfaces at a free-streammach number of 1.80 .'}
+{'docnum': 696, 'title': 'pressure loads produced on a flat-plate wing by rocket jets exhaustingin a spanwise direction below the wing and perpendicular to a freestreamflow of mach number 2.0 .'}
+{'docnum': 697, 'title': 'effects on adjacent surfaces from the firing of rocket jets .'}
+{'docnum': 698, 'title': 'the unsteady lift of a wing of finite aspect ratio .'}
+{'docnum': 699, 'title': 'approximate indical lift functions for several wings of finite span inincompressible flow as obtained from oscillatory lift coefficients .'}
+{'docnum': 700, 'title': 'two and three-dimensional unsteady lift problems in high speed flight .'}
+{'docnum': 701, 'title': 'numerical determination of indical lift of a two-dimensional sinkingairfoil at subsonic mach numbers from oscillatory lift coefficients with calculations for mach number 0.7 .'}
+{'docnum': 702, 'title': 'numerical determination of indical lift and moment functions for a twodimensional sinking and pitching airfoil at mach numbers 0.5 and 0.6 .'}
+{'docnum': 703, 'title': 'general airfoil theory .'}
+{'docnum': 704, 'title': 'a systematic kernel function procedure for determining aerodynamicforces on oscillating or steady finite wings at subsonic speeds .'}
+{'docnum': 705, 'title': 'on the kernel function of the integral equation relating the lift anddownwash distributions of oscillating finite wings in subsonic flow .'}
+{'docnum': 706, 'title': 'on som reciprocal relations in the theory of nonstationary flows .'}
+{'docnum': 707, 'title': 'thermal analysis of stagnation regions with emphasis on heat-sustainingnose shapes at hypersonic speeds .'}
+{'docnum': 708, 'title': 'aerodynamic characteristics of two winged reentry vehicles at supersonic and hypersonic speeds .'}
+{'docnum': 709, 'title': 'static longitudinal aerodynamic characteristics at transonic speeds andangles of attack up to 99degree of a reentry glider having foldingwingtip panels .'}
+{'docnum': 710, 'title': 'the smallest height of roughness capable of affecting boundary-layertransition .'}
+{'docnum': 711, 'title': 'an investigation at subsonic speeds of aerodynamic characteristics atangles of attack from -dash 4degrees to 100degrees of a delta-wingreentry configuration having folding wingtip panels .'}
+{'docnum': 712, 'title': 'low-speed longitudinal aerodynamic characteristics associated with aseries of low-aspect ratio wings having variations in leading-edgecontour .'}
+{'docnum': 713, 'title': 'static longitudinal stability characteristics of a blunted glider reentryconfiguration having 79.5degree sweepback and 45degree dihedral at a mach number of 6.2 and angles of attack up to 20degree .'}
+{'docnum': 714, 'title': 'blockage corrections for three-dimensional flow closedthroat wind tunnels, with considerations of the effectof compressibility .'}
+{'docnum': 715, 'title': 'motion of a ballistic missile angularly misalignedwith the flight path upon entering the atmosphere andits effect upon aerodynamic heating, aerodynamic loadsand miss distance .'}
+{'docnum': 716, 'title': "study of the oscillatory motion of manned vehiclesentering the earth's atmosphere ."}
+{'docnum': 717, 'title': 'motions of a short 10degree blunted cone entering a martian atmosphereat arbitrary angles of attack and arbitrary pitching rates .'}
+{'docnum': 718, 'title': 'means and examples of aeronautical research in france at onera .'}
+{'docnum': 719, 'title': 'tumbling bodies entering the atmosphere .'}
+{'docnum': 720, 'title': 'a note on the use of sandwich structures in severe acousticenvironments .'}
+{'docnum': 721, 'title': 'near noise field of a jet engine exhaust .'}
+{'docnum': 722, 'title': 'random excitation of a tailplane section by jet noise .'}
+{'docnum': 723, 'title': 'on the fatigue failure of structures due to vibrations excitedby random pressure fields .'}
+{'docnum': 724, 'title': 'structural acoustic proof testing .'}
+{'docnum': 725, 'title': 'the response of a typical aircraft structure to jetnoise .'}
+{'docnum': 726, 'title': 'on structural fatigue under random loading .'}
+{'docnum': 727, 'title': 'a study of the acoustic fatigue characteristics ofsome flat and curved aluminium panels exposed to randomand discrete noise .'}
+{'docnum': 728, 'title': 'free vibrations of continuous skin stringer panels .'}
+{'docnum': 729, 'title': 'stresses in continuous skin stiffener panels under random loading .'}
+{'docnum': 730, 'title': 'on the bending of a clamped plate .'}
+{'docnum': 731, 'title': 'upper and lower bounds for the solution of the firstbiharmonic boundary value problem .'}
+{'docnum': 732, 'title': 'on the analogues relating flexure and extension offlat plates .'}
+{'docnum': 733, 'title': 'the bending of a sectorial plate .'}
+{'docnum': 734, 'title': 'the bending of uniformly loaded clamped plate in theform of a circular sector .'}
+{'docnum': 735, 'title': 'the bending of uniformly loaded sectorial plates withclamped edges .'}
+{'docnum': 736, 'title': 'the bending of a wedge shaped plate .'}
+{'docnum': 737, 'title': 'on the analysis of elastic plates of variable thickness .'}
+{'docnum': 738, 'title': "finding zero's of arbitrary functions ."}
+{'docnum': 739, 'title': 'the buckling of thin cylindrical shells under axialcompression .'}
+{'docnum': 740, 'title': 'the behaviour of a cylindrical shell under axial compressionwhen the buckling load has been exceeded .'}
+{'docnum': 741, 'title': 'the behaviour of thin cylindrical shells after bucklingunder axial compression .'}
+{'docnum': 742, 'title': 'post-buckling behaviour of axially compressed circularcylinder shells .'}
+{'docnum': 743, 'title': 'new developments in the nonlinear theories of the buckling of thincylindrical shells .'}
+{'docnum': 744, 'title': 'lower buckling load in the non-linear buckling theoryof thin shells .'}
+{'docnum': 745, 'title': 'an automatic method for finding the greatest or leastvalue function .'}
+{'docnum': 746, 'title': 'aeroelastic problems in connection with high speedflight .'}
+{'docnum': 747, 'title': 'bodt freedom flutter of ground launched rocket modelsat supersonic and high subsonic speeds .'}
+{'docnum': 748, 'title': 'subsonic aerodynamic flutter derivatives for wings and control surfaces, /compressible and incompressible flow/'}
+{'docnum': 749, 'title': 'the aerodynamic effects of aspect ratio and sweepbackon wing flutter .'}
+{'docnum': 750, 'title': 'transonic flow in two dimensional and axially symmetricalnozzles .'}
+{'docnum': 751, 'title': 'a note on the use of end plates to prevent three dimensionalflow at the ends of bluff cylinders .'}
+{'docnum': 752, 'title': 'slender not-so-thin wing theory .'}
+{'docnum': 753, 'title': 'development of a quasi-steady approach to flutter andcorrelation with kernel-function results .'}
+{'docnum': 754, 'title': 'heat transfer through laminar boundary layers on semiinfinitecylinders of arbitrary cross section .'}
+{'docnum': 755, 'title': 'oscillatory derivative measurements on sting-mountedwind tunnel models method of test and results for pitchand yaw on a cambered ogee wing at mach numbers upto 2. 6.'}
+{'docnum': 756, 'title': 'further comments on the inversion of large structural matrices .'}
+{'docnum': 757, 'title': 'an investigation of the flow about a plane half-wingof cropped delta planform and 6( symmetrical sectionat stream mach numbers between 0. 8 and 1. 41 .'}
+{'docnum': 758, 'title': 'the lower bound of attainable sonic-boom over-pressureand design methods of approaching this limit .'}
+{'docnum': 759, 'title': 'stability investigation of a blunted cone and a bluntedogive with a flared cylinder afterbody at mach numbersfrom 0. 30 to 2. 85'}
+{'docnum': 760, 'title': 'inelastic buckling of initially imperfect cylindricalshells subject to axial compression .'}
+{'docnum': 761, 'title': 'buckling of sandwich under normal pressure .'}
+{'docnum': 762, 'title': 'allowable axial loads and bending moments for inelastic structuresunder nonuniform temperature distribution .'}
+{'docnum': 763, 'title': 'effects of internal pressure on the buckling of circular-cylindricalshells under bending.'}
+{'docnum': 764, 'title': 'breathing vibrations of a circular shell with an internalliquid .'}
+{'docnum': 765, 'title': 'clamped short oval cylindrical shells under hydrostaticpressure .'}
+{'docnum': 766, 'title': 'experimental investigation at mach number of 3. 0 ofeffects of thermal stress and buckling on flutter characteristicsof flat single-bay panels of length-width ratio 0. 96 .'}
+{'docnum': 767, 'title': 'mathematical techniques applying to the thermal fatigue behaviourof high temperature alloys .'}
+{'docnum': 768, 'title': 'formulae for use with the fatigue load meter in theassessment of wing fatigue life .'}
+{'docnum': 769, 'title': 'local circumferential buckling of thin circular cylindricalshells .'}
+{'docnum': 770, 'title': 'the flow of a compressible fluid past a sphere .'}
+{'docnum': 771, 'title': 'on the flow of a compressible fluid past a sphere .'}
+{'docnum': 772, 'title': 'an experimental study of jet-flap compressor blades .'}
+{'docnum': 773, 'title': 'q . app . math . 7, 1950, 381 . experiments on porous-wallcooling and flow separation control in a supersonicnozzle .'}
+{'docnum': 774, 'title': 'general characteristics of the flow through nozzlesat near critical speeds .'}
+{'docnum': 775, 'title': 'studies on two dimensional flows of compressible fluid.'}
+{'docnum': 776, 'title': 'force measurements on square and dodecagonal sectionalcylinders at high reynolds numbers .'}
+{'docnum': 777, 'title': 'a technique for rendering approximate solutions tophysical problems uniformly valid .'}
+{'docnum': 778, 'title': 'an integral related to the radiation integrals .'}
+{'docnum': 779, 'title': 'calculation and compilation of the unsteady lift functions for a rigidwing subjected to sinusoidal gusts and to sinusoidal sinking oscillations.'}
+{'docnum': 780, 'title': 'the transonic characteristics of 38 cambered rectangularwings of varying aspect ratio and thickness as determinedby transonic-bump technique .'}
+{'docnum': 781, 'title': 'use of subsonic kernel function in an influence-coefficient method ofaeroelastic analysis and some comparisons with experiment .'}
+{'docnum': 782, 'title': 'calculated subsonic span loads and resulting stability derivatives ofunswept and 45degree sweptback tail surfaces in sideslip and steady roll'}
+{'docnum': 783, 'title': 'a method for calculating the subsonic steady-state loading on an airplanewith a wing of arbitrary planform and stiffness .'}
+{'docnum': 784, 'title': 'heat transfer through the laminar boundary layer ona circular cylinder in axial incompressible flow .'}
+{'docnum': 785, 'title': 'the flow of fluid along cylinders .'}
+{'docnum': 786, 'title': 'the skin friction on infinite cylinders moving parallell to their length'}
+{'docnum': 787, 'title': "rayleigh's problem for a cylinder of arbitrary shape ."}
+{'docnum': 788, 'title': 'an approximate boundary layer theory for semi-infinite cylinders ofarbitrary cross-section .'}
+{'docnum': 789, 'title': 'a further note on the calculation of heat transferthrough the axisymmetrical laminar boundary layer ona circular cylinder .'}
+{'docnum': 790, 'title': 'a wind-tunnel test technique for measuring the dynamic rotarystability derivatives at subsonic and supersonic speeds .'}
+{'docnum': 791, 'title': "measurements at mach numbers up to 2. 8 of the longitudinalcharacteristics of one plane and three cambered slender'ogee' wings ."}
+{'docnum': 792, 'title': 'some low speed problems of high speed aircraft .'}
+{'docnum': 793, 'title': 'the flow pattern on a tapered sweptback wing at mach numbers between 0.6 and 1.6 .'}
+{'docnum': 794, 'title': 'experiments with a tapered swept-back wing of warren 12 planform at mach numbers between 0.6 and 1.6 .'}
+{'docnum': 795, 'title': 'the operation of the npl 18in x 14in. wind tunnel in the transonic speed range .'}
+{'docnum': 796, 'title': 'an investigation at transonic speeds of the performance of variousdistributed roughness bands used to cause boundary layer transitionnear the leading edge of a cropped delta half-wing .'}
+{'docnum': 797, 'title': 'a study of the effect of leading-edge modifications on the flow overa 50degree sweptback wing at transonic speeds .'}
+{'docnum': 798, 'title': 'interaction between shock waves and boundary layers, with a note on theeffects of the interaction of the performance of supersonic intakes .'}
+{'docnum': 799, 'title': 'some effects of wind-tunnel interference observed in tests on twodimensionalaerofoils at high subsonic and transonic speeds .'}
+{'docnum': 800, 'title': 'wall interference at transonic speeds on a hemisphere cylinder model .'}
+{'docnum': 801, 'title': 'experimental study of the equivalence of transonicflow about slender cone-cylinders of circular and ellipticcross section .'}
+{'docnum': 802, 'title': 'the behaviour of supersonic flow past a body of revolutionfar from the axis .'}
+{'docnum': 803, 'title': 'the shock pattern of a wing-body combination far fromthe flight path .'}
+{'docnum': 804, 'title': 'a flight test investigation of the sonic boom .'}
+{'docnum': 805, 'title': 'ground measurements of the shock wave noise from airplanesin level flight at mach numbers to 1. 4 and at altitudesto 45,000 feet .'}
+{'docnum': 806, 'title': 'ground measurements of airplane shock wave noise atmach numbers to 2, and at altitudes of 60,000 feet .'}
+{'docnum': 807, 'title': 'ground measurements of the shock wave noise from supersonicbomber airplanes in the altitude range from 30,000to 50,000 feet .'}
+{'docnum': 808, 'title': 'an investigation of some aspects of the sonic boomby means of wind tunnel measurements of pressures aboutseveral bodies at a mach number of 2. 01 .'}
+{'docnum': 809, 'title': 'an investigation of the influence of lift on sonic-boomintensity by means of wind tunnel measurements of thepressure fields of several wing-body combinations ata mach number of 2. 01 .'}
+{'docnum': 810, 'title': 'the shock wave noise problem of supersonic aircraftin steady flight .'}
+{'docnum': 811, 'title': 'an investigation of lifting effects on the intensityof sonic booms .'}
+{'docnum': 812, 'title': 'investigation of two bluff shapes in axial free flightover a mach number range from 0. 35 to 2. 15 .'}
+{'docnum': 813, 'title': 'the motion of rolling symmetrical missiles referredto a body-axis system .'}
+{'docnum': 814, 'title': 'stability derivatives of cones at supersonic speeds .'}
+{'docnum': 815, 'title': 'investigation of several blunt bodies to determinetrans- onic aerodynamic characteristics including effectsof spinning and of extendible afterbody flaps and somemeasurements of unsteady base pressures .'}
+{'docnum': 816, 'title': 'experimental investigation at a mach number of 3. 11of the lift, drag and pitching moment characteristicsof a number of blunt low-fineness-ratio bodies .'}
+{'docnum': 817, 'title': 'loading paths and the incremental stress law .'}
+{'docnum': 818, 'title': 'a quantitative comparison of flow and deformation theoriesof plasticity .'}
+{'docnum': 819, 'title': 'stresses in the plastic range around a normally loadedcircular hole in an infinite sheet .'}
+{'docnum': 820, 'title': 'theories of plastic buckling .'}
+{'docnum': 821, 'title': 'inelastic column theory .'}
+{'docnum': 822, 'title': 'effects of imperfections on buckling of thin cylindersand columns under axial compression .'}
+{'docnum': 823, 'title': 'plastic torsional buckling strength of cylinders includingthe effects of imperfections .'}
+{'docnum': 824, 'title': 'on the concept of stability of inelastic systems .'}
+{'docnum': 825, 'title': 'inelastic instability and incremental theories of plasticity .'}
+{'docnum': 826, 'title': 'small bending and stretching of sandwich type shells .'}
+{'docnum': 827, 'title': 'a nonlinear theory of bending and buckling of thinelastic shallow spherical shells .'}
+{'docnum': 828, 'title': 'stresses and small displacements of shallow sphericalshells .'}
+{'docnum': 829, 'title': 'stability of thin-walled tubes under torsion .'}
+{'docnum': 830, 'title': 'nonlinear deflections of shallow spherical shells .'}
+{'docnum': 831, 'title': 'buckling of shallow shells under external pressure .'}
+{'docnum': 832, 'title': 'accelerating convergence of iteration processes .'}
+{'docnum': 833, 'title': 'a simple method of matric structural analysis, partiv, non-linear problems .'}
+{'docnum': 834, 'title': 'limit design for economical missile structures .'}
+{'docnum': 835, 'title': 'the problem of strain accumulation under thermal cycling .'}
+{'docnum': 836, 'title': 'analytical and experimental investigation of stress distributions inlong flat plates subjected to lingitudinal loads and transverse temperaturegradients .'}
+{'docnum': 837, 'title': 'inelastic behaviour of structures subjected to cyclicthermal and mechanical stressing conditions .'}
+{'docnum': 838, 'title': 'bending and compression tests of pressurised ring-stiffenedcylinders .'}
+{'docnum': 839, 'title': 'the bending stability of thin-- walled unstiffenedcircular cylinders including the effects of internalpressure .'}
+{'docnum': 840, 'title': 'analysis of partly wrinkled membrane .'}
+{'docnum': 841, 'title': 'on the bending of circular cylindrical shells underpure bending .'}
+{'docnum': 842, 'title': "an improvement on donnell's approximation for thin-walledcircular cylinders ."}
+{'docnum': 843, 'title': 'a simplified method of elastic stability analysis forthin cylindrical shells .'}
+{'docnum': 844, 'title': 'flexural vibrations of the walls of thin cylindricalshells having freely supported ends .'}
+{'docnum': 845, 'title': 'the flexural vibrations of thin cylinders .'}
+{'docnum': 846, 'title': 'on the vibration of thin cylindrical shells under internalpressure .'}
+{'docnum': 847, 'title': 'experimental study of the vibrations of a circularcylindrical shell .'}
+{'docnum': 848, 'title': 'the effect of an internal compressible fluid columnon the breathing vibrations of a thin pressurised cylindricalshell .'}
+{'docnum': 849, 'title': 'a theory of imperfection for the vibrations of elastic bodies ofrevolution .'}
+{'docnum': 850, 'title': "remarks on donnell's equations ."}
+{'docnum': 851, 'title': 'energy expressions and differential equations for stressand displacement analysis of arbitrary cylindricalshells .'}
+{'docnum': 852, 'title': 'stress and displacement analysis of simply supportednon- circular cylindrical shell under lateral pressure .'}
+{'docnum': 853, 'title': "the accuracy of donnell's equations ."}
+{'docnum': 854, 'title': 'boundary-value problems of the thin-walled circularcylinder .'}
+{'docnum': 855, 'title': 'simplified formulas for boundary value problems ofthe thin-- walled circular cylinder .'}
+{'docnum': 856, 'title': 'some experimental studies of panel flutter at mach1 .3.'}
+{'docnum': 857, 'title': 'experimental studies of flutter of buckled rectangularpanels at mach numbers from 1. 2 to 3. 0 includingeffects of pressure differential and of panel width-lengthratio .'}
+{'docnum': 858, 'title': 'experimental investigation at mach numbers 3. 0 ofthe effects of thermal stress and buckling on the flutterof four-bay aluminium alloy panels with length-widthratios of 10 .'}
+{'docnum': 859, 'title': 'flutter of aerodynamically heated aluminium-alloy andstainless steel panels with length-width ratio of 10at mach 3. 0.'}
+{'docnum': 860, 'title': 'test of an aerodynamically heated multi-- web wingstructure (mw-1) in a free jet at mach number 2.'}
+{'docnum': 861, 'title': "charts adapted from van driest's turbulent flat-platetheory for determining values of turbulent aerodynamicfriction and heat transfer coefficients ."}
+{'docnum': 862, 'title': 'the phenomenon of change in buckle pattern in elasticstructures .'}
+{'docnum': 863, 'title': 'loads and deformations of buckled rectangular plates .'}
+{'docnum': 864, 'title': 'status of flutter of flat and curved panels .'}
+{'docnum': 865, 'title': 'a study of the thermal fatigue behaviour of metals . the effect of test conditions on nickel-base hightemperature alloys .'}
+{'docnum': 866, 'title': 'regularities in creep and hot fatigue data .'}
+{'docnum': 867, 'title': 'low frequency fatigue of nimonic 90 . low frequencyfatigue - a rheological approach .'}
+{'docnum': 868, 'title': 'design and operation of the n. g. t. e.  thermal shockanalogue .'}
+{'docnum': 869, 'title': "the calculation of transient temperature in turbineblades and tapered discs using biot's variational method ."}
+{'docnum': 870, 'title': 'effect of rheological behaviour on thermal stresses .'}
+{'docnum': 871, 'title': 'steady-state creep through dislocation climb .'}
+{'docnum': 872, 'title': 'fundamentals of boundary layer heat transfer with streamwisetemperature variations .'}
+{'docnum': 873, 'title': 'lagrangian thermodynamics of heat transfer in systemsincluding fluid motion .'}
+{'docnum': 874, 'title': 'the use of models for the determination of critical flutter speeds .'}
+{'docnum': 875, 'title': 'models for aeroelastic investigation .'}
+{'docnum': 876, 'title': 'on flutter testing in high speed wind tunnels .'}
+{'docnum': 877, 'title': 'the influence of aerodynamic heating on the flexuralrigidity of a thin wing .'}
+{'docnum': 878, 'title': 'experimental model techniques and equipment for flutterinvestigations .'}
+{'docnum': 879, 'title': 'flutter model testing at transonic speeds .'}
+{'docnum': 880, 'title': 'the design and testing of supersonic flutter models .'}
+{'docnum': 881, 'title': 'cumulative damage in fatigue .'}
+{'docnum': 882, 'title': 'the variation of gust frequency with gust velocityand altitude .'}
+{'docnum': 883, 'title': 'correlated fatigue data for aircraft structural joints .'}
+{'docnum': 884, 'title': 'the estimation of fatigue damage on structural elements .'}
+{'docnum': 885, 'title': 'buckling of thin cylindrical shells under hoop stressesvarying in axial direction .'}
+{'docnum': 886, 'title': 'thermal buckling of clamped cylindrical shells .'}
+{'docnum': 887, 'title': 'buckling due to thermal stress of cylindrical shellssubjected to axial temperature distributions .'}
+{'docnum': 888, 'title': 'combinations of temperature and axial compression requiredfor buckling of a ring-stiffened cylinder .'}
+{'docnum': 889, 'title': 'a simplified method of elastic stability analysis forthin cylindrical shells .'}
+{'docnum': 890, 'title': "comments on 'thermal buckling of clamped cylindrical shells' ."}
+{'docnum': 891, 'title': 'buckling of a finite length cylindrical shell undera circumferential band of pressure .'}
+{'docnum': 892, 'title': 'research on unsteady flow .'}
+{'docnum': 893, 'title': 'a new design of pitot-static tube with a discussionof pitot-static tubes and their calibration factors .'}
+{'docnum': 894, 'title': 'flutter of a two dimensional simply supported buckledpanel with elastic restraint against edge displacement .'}
+{'docnum': 895, 'title': 'the airforces on the low aspect ratio rectangular wingoscillating in sonic flow .'}
+{'docnum': 896, 'title': 'the calculation of loads on a supersonic weapon inthe steady circling case .'}
+{'docnum': 897, 'title': 'some results on buckling and postbuckling of cylindricalshells .'}
+{'docnum': 898, 'title': 'a survey of buckling theory and experiment for circularconical shells of constant thickness .'}
+{'docnum': 899, 'title': 'aerodynamic effects on boundary layer unsteadiness .'}
+{'docnum': 900, 'title': 'some measurements in the vortex flow generated by asharp leading edge having 65 sweep .'}
+{'docnum': 901, 'title': 'long slender delta wings with leading edge separation .'}
+{'docnum': 902, 'title': 'some current and proposed investigations into the flowfor slender delta and other wings in unsteady motion .'}
+{'docnum': 903, 'title': 'two dimensional transonic unsteady flow with shockwaves .'}
+{'docnum': 904, 'title': 'calibration of the standard pitot-static head usedin the rae low speed wind tunnels .'}
+{'docnum': 905, 'title': 'comparative tests of pitot-static tubes .'}
+{'docnum': 906, 'title': 'review of the pitot tube .'}
+{'docnum': 907, 'title': 'cavitation and pressure distributionhead forms at zero angle of yaw .'}
+{'docnum': 908, 'title': 'random vibration .'}
+{'docnum': 909, 'title': 'the effect of jet noise on aircraft structures .'}
+{'docnum': 910, 'title': 'natural frequencies of continuous beams of uniformspan length .'}
+{'docnum': 911, 'title': 'experimental study of the random vibrations of an aircraftstructure excited by jet noise .'}
+{'docnum': 912, 'title': 'the axisymmetric free-convection temperature fieldalong a vertical thin cylinder .'}
+{'docnum': 913, 'title': 'vibrations of beams on many supports .'}
+{'docnum': 914, 'title': 'transtability flutter of supersonic aircraft panels .'}
+{'docnum': 915, 'title': 'a buckled plate in a supersonic stream .'}
+{'docnum': 916, 'title': 'the flow around oscillating low aspect ratio wings at transonicspeeds .'}
+{'docnum': 917, 'title': 'a method of calculating the short period longitudinalstability derivatives of a wing in linearised unsteadycompressible flow .'}
+{'docnum': 918, 'title': 'on the low aspect ratio oscillating rectangular wingin supersonic flow .'}
+{'docnum': 919, 'title': 'theoretical studies of unsteady transonic flow . part iii . the oscillatinglow aspect ratio rectangular wing .'}
+{'docnum': 920, 'title': 'supersonic flow over an inclined wing of zero aspect ratio .'}
+{'docnum': 921, 'title': 'slender-body theory-review and extension .'}
+{'docnum': 922, 'title': 'supersonic flow past slender bodies of revolution,slope of whose median section is discontinuous .'}
+{'docnum': 923, 'title': 'methods for estimating lift interference of wing-bodycombinations at supersonic speeds .'}
+{'docnum': 924, 'title': 'a method for calculating the lift and centre of pressureof wing-body-tail combinations at subsonic, transonicspeeds .'}
+{'docnum': 925, 'title': 'factors affecting loads at hypersonic speeds .'}
+{'docnum': 926, 'title': 'post buckling behaviour of circular cylinderical shellsunder hydrostatic pressure .'}
+{'docnum': 927, 'title': 'investigation of normal force distributions and wakevortex characteristics of bodies of revolution at supersonicspeeds .'}
+{'docnum': 928, 'title': 'a new theory for the buckling of thin cylinders underaxial compression and bending .'}
+{'docnum': 929, 'title': 'stability of the cylindrical shell of variable curvature .'}
+{'docnum': 930, 'title': 'general theory of large deflections of thin shellswith special applications to conical shells .'}
+{'docnum': 931, 'title': 'stability equations for conical shells .'}
+{'docnum': 932, 'title': 'buckling of circular cones under axial compression .'}
+{'docnum': 933, 'title': 'the characteristics of roughness from insects as observedfor two-dimensional, incompressible flow past airfoils .'}
+{'docnum': 934, 'title': 'stability of cylindrical and conical shells of circularcross section, with simultaneous action of axial compressionand external normal pressure .'}
+{'docnum': 935, 'title': 'buckling of thin single- and multi-layer conical and cylindricalshells with rotationally symmetric stresses .'}
+{'docnum': 936, 'title': 'a donnell-type theory for asymmetrical bending andbuckling of thin conical shells .'}
+{'docnum': 937, 'title': 'on the buckling of truncated conical shells in torsion .'}
+{'docnum': 938, 'title': 'calculations for the stability of thin conical frustumssubjected to external uniform hydrostatic pressureand axial loads .'}
+{'docnum': 939, 'title': 'some explicit solutions for constant-temp . magnetogasdynamic channel flow .'}
+{'docnum': 940, 'title': 'of a turbulent free shear layer .'}
+{'docnum': 941, 'title': 'viscous compressible and incompressible flow in slenderchannels .'}
+{'docnum': 942, 'title': 'secondary gas injection in a conical rocket nozzle .'}
+{'docnum': 943, 'title': 'compressible free shear layer with finite initial thickness .'}
+{'docnum': 944, 'title': 'one dimensional heat conduction through the skin ofa vehicle upon entering a planetary atmosphere at constantvelocity and entry angle .'}
+{'docnum': 945, 'title': 'method for design of pump impellers using a high speeddigital computer .'}
+{'docnum': 946, 'title': 'exploratory investigation of the effect of a forwardfacing jet on the bow shock of a blunt body in a machnumber 6 free stream .'}
+{'docnum': 947, 'title': 'static aerodynamic characteristics of a short blunt10 semi-vertex angle cone at a mach number of 15 inhelium .'}
+{'docnum': 948, 'title': 'panel flutter tests on full scale x-15 lower verticalstabilizer at mach number of 3. 0.'}
+{'docnum': 949, 'title': 'charts for equilibrium flow properties of air in hypervelocitynozzles .'}
+{'docnum': 950, 'title': 'comparison of theoretical and experimental creep bucklingtimes of initially straight, centrally loaded columns .'}
+{'docnum': 951, 'title': 'a unified theory of creep buckling under normal loads .'}
+{'docnum': 952, 'title': 'study of creep collapse of a long circular cylindricalshell under various distributed force systems .'}
+{'docnum': 953, 'title': 'vibrations of infinitely long cylindrical shells underinitial stress .'}
+{'docnum': 954, 'title': 'analysis of stress at several junctions in pressurizedshells .'}
+{'docnum': 955, 'title': 'the membrane approach to bending instability of pressureizedcylindrical shells .'}
+{'docnum': 956, 'title': 'elastic stability of simply supported corrugated coresand- wich cylinders .'}
+{'docnum': 957, 'title': 'axisymmetric snap buckling of conical shells .'}
+{'docnum': 958, 'title': 'air scooping vehicle .'}
+{'docnum': 959, 'title': 'heat transfer in separated flows .'}
+{'docnum': 960, 'title': 'investigation of free turbulent mixing .'}
+{'docnum': 961, 'title': 'compressible two dimensional jet mixing at constantpressure .'}
+{'docnum': 962, 'title': 'contributions to the theory of heat transfer througha laminar boundary layer .'}
+{'docnum': 963, 'title': 'a variational principle for convection of heat .'}
+{'docnum': 964, 'title': 'on the theory of discharge coefficients for round entrance flowmetersand venturis .'}
+{'docnum': 965, 'title': 'analytic determination of discharge coefficients of flow nozzles .'}
+{'docnum': 966, 'title': 'on fully developed channel flows,. some solutions and limitations, andeffects of compressibility, variable properties, and body forces .'}
+{'docnum': 967, 'title': 'a study of laminar compressible viscous pipe flow accelerated by anaxial body force, with application to magnetogasdynamics .'}
+{'docnum': 968, 'title': 'rocket propulsion systems for interplanetary flight .'}
+{'docnum': 969, 'title': 'on the use of side-jets as control devices .'}
+{'docnum': 970, 'title': 'loads induced on a flat plate wing by an air jet exhausting perpendicularlythrough the wing and normal to a free-stream flow of machnumber 2.0 .'}
+{'docnum': 971, 'title': 'surface pressure distributions with a sonic jet normal to adjacent flatsurfaces at mach 2.92 to 6.4 .'}
+{'docnum': 972, 'title': 'aerodynamic interaction effects ahead of a sonic jet exhausting perpendicularlyform a flat plate into a mach number 6 free stream .'}
+{'docnum': 973, 'title': 'interaction effects produced by jet exhausting laterally near base ofogive-cylinder model in supersonic main stream .'}
+{'docnum': 974, 'title': 'approximate analysis of thrust vector control by fluid injection .'}
+{'docnum': 975, 'title': 'one dimensional flows of an imperfect diatomic gas .'}
+{'docnum': 976, 'title': 'turbulent diffusion in the wake of a blunt nosed bodyat hypersonic speeds .'}
+{'docnum': 977, 'title': 'concerning some solutions of the boundary layer equationsin hydrodynamics .'}
+{'docnum': 978, 'title': 'temperature profiles inafinite solid with moving boundary .'}
+{'docnum': 979, 'title': 'correlation of base pressure and wake structure ofsharp and blunt-nose cones with reynolds number basedon boundary layer momentum thickness .'}
+{'docnum': 980, 'title': 'a method of computing the transient temperature of thick walls fromarbitrary variation of adiabatic-wall temperature and heat-transfer coefficient.'}
+{'docnum': 981, 'title': 'solutions to the heat-conduction equation with time dependent boundaryconditions .'}
+{'docnum': 982, 'title': 'the temperature history in a thick skin subjected to laminar heatingduring entry into the atmosphere .'}
+{'docnum': 983, 'title': "addendum to 'heat transfer to satellite vehicles re-entering the atmosphere."}
+{'docnum': 984, 'title': 'method of analysis for compressible flow through mixed-flow centrifugalimpellers of arbitrary design .'}
+{'docnum': 985, 'title': 'a rapid approximate method for the design of hub shroud profiles ofcentrifugal impellers of given blade shape .'}
+{'docnum': 986, 'title': 'design and test of mixed-flow impellers, viii - comparison of experimentalresults for three impellers with shroud redesigned by rapidapproximate method .'}
+{'docnum': 987, 'title': 'a general theory of three dimensional flow in subsonic and supersonicturbo-machines of axial-radial-and mixed-flow types .'}
+{'docnum': 988, 'title': 'nonviscous flow through a pump impeller on a blade-to-blade surface ofrevolution .'}
+{'docnum': 989, 'title': 'incompressible nonviscous blade-to-blade flow through a pump rotor withsplitter vanes .'}
+{'docnum': 990, 'title': 'a rapid approximate method for determining velocity distribution on impellerblades of centrifugal compressors .'}
+{'docnum': 991, 'title': 'wing-flow study of pressure drag reduction at transonic speed by projectinga jet of air from the nose of a prolate spheroid of finenessratio 6 .'}
+{'docnum': 992, 'title': 'the effects of a small jet of air exhausting from the nose of a bodyof revolution in supersonic flow .'}
+{'docnum': 993, 'title': ' the extent of the jet interference flow fields .jet effects on cylindrical afterbodies housing sonic and supersonicnozzles which exhaust against a supersonic stream at angles of attackfrom 90degree to 180degree .'}
+{'docnum': 994, 'title': 'investigation of a retrocket exhausting from the nose of a blunt bodyinto a supersonic free stream .'}
+{'docnum': 995, 'title': ''}
+{'docnum': 996, 'title': 'extension of boundary layer separation criteria toa m=6 .5 utilizing flat plates with forward-facingsteps .'}
+{'docnum': 997, 'title': 'experimental and theoretical studies of axisymmetric free jets .'}
+{'docnum': 998, 'title': 'equations, tables and charts for compressible flow .'}
+{'docnum': 999, 'title': 'static aerodynamic characteristics of short blunt coneswith various nose and base cone angles at mach numbersof 0. 6 to 5. 5 and angles of attack to 180 .'}
+{'docnum': 1000, 'title': 'free-flight measurements of the static and dynamicstability and drag of a 10 blunted cone at mach numbers3 .5 and 8 .5 .'}
+{'docnum': 1001, 'title': 'wind tunnel investigation of the static and dynamic stability characteristicsof a 10degree semivertex angle blunted cone .'}
+{'docnum': 1002, 'title': 'preliminary investigations of spiked bodies at hypersonic speeds .'}
+{'docnum': 1003, 'title': 'free-flight measurements of the static and dynamic'}
+{'docnum': 1004, 'title': 'free-flight measurements of the static and dynamic'}
+{'docnum': 1005, 'title': 'free-flight measurements of the static and dynamic'}
+{'docnum': 1006, 'title': 'free-flight measurements of the static and dynamic'}
+{'docnum': 1007, 'title': 'free-flight measurements of the static and dynamic'}
+{'docnum': 1008, 'title': 'free-flight measurements of the static and dynamic'}
+{'docnum': 1009, 'title': 'free-flight measurements of the static and dynamic'}
+{'docnum': 1010, 'title': 'free-flight measurements of the static and dynamic'}
+{'docnum': 1011, 'title': 'free-flight measurements of the static and dynamic'}
+{'docnum': 1012, 'title': 'principles of creep buckling weight-strength analysisof aircraft structures .'}
+{'docnum': 1013, 'title': 'principles of creep buckling weight-strength analysis'}
+{'docnum': 1014, 'title': 'principles of creep buckling weight-strength analysis'}
+{'docnum': 1015, 'title': 'principles of creep buckling weight-strength analysis'}
+{'docnum': 1016, 'title': 'principles of creep buckling weight-strength analysis'}
+{'docnum': 1017, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1018, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1019, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1020, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1021, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1022, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1023, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1024, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1025, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1026, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1027, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1028, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1029, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1030, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1031, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1032, 'title': 'on the conservativeness of various distributed force systems .'}
+{'docnum': 1033, 'title': 'the design of tubes under uniform external pressure on thebasis of assumed inaccuracies .'}
+{'docnum': 1034, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1035, 'title': 'note on creep buckling of columns .'}
+{'docnum': 1036, 'title': 'on transverse vibrations of thin, shallow elastic shells .'}
+{'docnum': 1037, 'title': 'on transverse vibrations of thin, shallow elastic shells .'}
+{'docnum': 1038, 'title': 'on transverse vibrations of thin, shallow elastic shells .'}
+{'docnum': 1039, 'title': 'on transverse vibrations of thin, shallow elastic shells .'}
+{'docnum': 1040, 'title': 'on transverse vibrations of thin, shallow elastic shells .'}
+{'docnum': 1041, 'title': 'analysis of stresses in the elements of shell structure .'}
+{'docnum': 1042, 'title': 'on transverse vibrations of thin, shallow elastic shells .'}
+{'docnum': 1043, 'title': 'on transverse vibrations of thin, shallow elastic shells .'}
+{'docnum': 1044, 'title': 'on the theory of thin elastic shells .'}
+{'docnum': 1045, 'title': 'the bending strength of pressurized cylinders .'}
+{'docnum': 1046, 'title': 'the bending strength of pressurized cylinders .'}
+{'docnum': 1047, 'title': 'the bending strength of pressurized cylinders .'}
+{'docnum': 1048, 'title': 'a small deflection theory for curved sandwich plates .'}
+{'docnum': 1049, 'title': 'elastic constants for corrugated core sandwich plates .'}
+{'docnum': 1050, 'title': 'compressive buckling of simply supported curved platesand cylinders of sandwich construction .'}
+{'docnum': 1051, 'title': 'the stability of thin-walled unstiffened circular cylindersunder axial compression including the effects of internalpressure .'}
+{'docnum': 1052, 'title': 'recent advances in the buckling of thin shells .'}
+{'docnum': 1053, 'title': 'spherical cap snapping .'}
+{'docnum': 1054, 'title': 'iterative solutions for the non-linear bending of circularplates .'}
+{'docnum': 1055, 'title': 'non-linear bending and buckling of circular plates .'}
+{'docnum': 1056, 'title': 'axisymmetric large deflections of circular plates subjectedto thermal and mechanical load .'}
+{'docnum': 1057, 'title': 'the uniform section disk spring .'}
+{'docnum': 1058, 'title': 'the conical disk spring .'}
+{'docnum': 1059, 'title': 'the nonlinear conical spring .'}
+{'docnum': 1060, 'title': 'buckled states of circular plates .'}
+{'docnum': 1061, 'title': 'turbulent mixing of a rocket exhaust jet with a supersonic stream includingchemical reactions .'}
+{'docnum': 1062, 'title': 'an experimental and theoretical investigation of second-orderwing-body interference at high mach number .'}
+{'docnum': 1063, 'title': 'on obtaining solutions to the navier-stokes equationswith high speed digital computers .'}
+{'docnum': 1064, 'title': 'propeller slipstream effects as determined from wingpressure distribution on a large-scale six-propellervtol model at static thrust .'}
+{'docnum': 1065, 'title': 'a free-flight investigation of ablation of a bluntbody to a mach number of 13 .1.'}
+{'docnum': 1066, 'title': 'wind tunnel measurements of aerodynamic damping derivativesof a launch vehicle vibrating in free-free bendingmodes at mach numbers from 0. 70 to 2. 87 and comparisonswith theory .'}
+{'docnum': 1067, 'title': 'plastic stability theory of geometrically orthotropicplates and cylindrical shells .'}
+{'docnum': 1068, 'title': 'instability analysis of cylindrical shells under hydrostaticpressure .'}
+{'docnum': 1069, 'title': 'design and testing of honeycomb sandwich cylindersunder axial compression .'}
+{'docnum': 1070, 'title': 'buckling of orthotropic and stiffened conical shells .'}
+{'docnum': 1071, 'title': 'stability of thin torispherical shells under uniforminternal pressure .'}
+{'docnum': 1072, 'title': 'ignition and combustion in a laminar mixing zone .'}
+{'docnum': 1073, 'title': 'a practical method for numerical evaluation of solutionsof partial differential equations of the heat-conductiontype .'}
+{'docnum': 1074, 'title': 'theoretical and experimental investigation of second-order supersonicwing-body interference .'}
+{'docnum': 1075, 'title': 'an experimental and theoretical investigation of second-order supersonic wing-body interference, for a non-lifting body with wings at incidence'}
+{'docnum': 1076, 'title': 'an approximate method for determining the displacement effects andviscous drag of laminar boundary layers in two-dimensional hypersonicflow .'}
+{'docnum': 1077, 'title': 'a method of solution with tabulated results for the attached obliqueshock wave system for surfaces at various angles of attack, sweep, anddihedral in an equilibrium real gas including the atmosphere .'}
+{'docnum': 1078, 'title': 'the steady flow of a viscous fluid past a circular cylinder at reynoldsnumbers 40 and 44 .'}
+{'docnum': 1079, 'title': 'finite difference formulae for the square lattices .'}
+{'docnum': 1080, 'title': 'viscous flow round a sphere at low reynolds numbers . /l40/'}
+{'docnum': 1081, 'title': 'numerical solution of the navier-stokes equations for the flow around acircular cylinder at reynolds number 40 .'}
+{'docnum': 1082, 'title': 'the flow past pitot tube at low reynolds numbers, part 1-dash the numericalsolution of the navier-stokes equations for steady viscousaxisymmetric flow, part 2-dash the effects of viscosity and orificesize on a pitot tube at low reynolds numbers .'}
+{'docnum': 1083, 'title': 'an investigation of fluid flow in two dimensions .'}
+{'docnum': 1084, 'title': 'the flow past circular cylinders at low speeds .'}
+{'docnum': 1085, 'title': 'note on the convergence of numerical solutions of the navier-stokesequations .'}
+{'docnum': 1086, 'title': 'a note on the numerical solution of fourth order differentialequations .'}
+{'docnum': 1087, 'title': 'convergence rates of iterative treatments of partial differential equations.'}
+{'docnum': 1088, 'title': 'iterative methods for solving partial difference equations of elliptictype .'}
+{'docnum': 1089, 'title': 'aerodynamic characteristics of propeller-driven vtolaircraft .'}
+{'docnum': 1090, 'title': 'pressure distribution and force measurements on a vtoltilting wing-propeller model . pt .ii, analysis ofresults .'}
+{'docnum': 1091, 'title': 'data from a static thrust investigation of a largescale general research vtol-stol model in ground effect .'}
+{'docnum': 1092, 'title': 'wing-nacelle-propeller interference for wings of variousspans . force and pressure distribution tests .'}
+{'docnum': 1093, 'title': 'induced interference effects on jet and buried-fanvtol configurations in transition .'}
+{'docnum': 1094, 'title': 'investigation of the effects of ground proximity andpropeller position on the effectiveness of a wing withlarge chord slotted flaps in redirecting propellerslipstream downward for vertical take-off .'}
+{'docnum': 1095, 'title': 'investigation of effectiveness of large-chord slottedflaps in deflecting propeller slipstreams downwardfor vertical take-off and low-speed flight .'}
+{'docnum': 1096, 'title': 'qualitative measurements of the effective heats ofablation of several materials in supersonic air jetsat stagnation temperature up to 11,000 f.'}
+{'docnum': 1097, 'title': 'experimental ablation cooling .'}
+{'docnum': 1098, 'title': 'an experimental investigation of ablating materialat low and high enthalpy potentials .'}
+{'docnum': 1099, 'title': 'a theoretical study of stagnation point ablation .'}
+{'docnum': 1100, 'title': 'an analytical investigation of ablation .'}
+{'docnum': 1101, 'title': 'a sensor for obtaining ablation rates .'}
+{'docnum': 1102, 'title': 'a five-stage solid fuel sounding rocket system .'}
+{'docnum': 1103, 'title': 'pressures, densities and temperatures in the upper atmosphere .'}
+{'docnum': 1104, 'title': 'aerodynamic heating of blunt nose shapes at mach numbers up to 14 .'}
+{'docnum': 1105, 'title': 'numerical solutions for supersonic flow of an idealgas around blunt two-dimensional bodies .'}
+{'docnum': 1106, 'title': 'free-flight observation of a separated turbulent flowincluding heat transfer up to mach 8. 5.'}
+{'docnum': 1107, 'title': 'the flow field over blunted flat plates and its effecton turbulent boundary growth and heat transfer at amach number of 4. 7.'}
+{'docnum': 1108, 'title': 'a study of second-order supersonic flow theory .'}
+{'docnum': 1109, 'title': 'unsteady laminar compressible boundary layers on aninfinite plate with suction or injection .'}
+{'docnum': 1110, 'title': 'on supersonic flow past a slightly yawing cone .'}
+{'docnum': 1111, 'title': 'some research on high speed flutter .'}
+{'docnum': 1112, 'title': 'unsteady aerodynamic forces on a slender body of revolutionin supersonic flow .'}
+{'docnum': 1113, 'title': 'an electronic apparatus for automatic recording ofthe logarithmic decrement and frequency for oscillationsin the audio and subaudio frequency range .'}
+{'docnum': 1114, 'title': 'steady and fluctuating pressures at transonic speedson two space-vehicle payload shapes .'}
+{'docnum': 1115, 'title': 'measurements of aerodynamic forces for various meanangles of attack on an airfoil oscillating in pitchand on two finite-span wings oscillating in bendingwith emphasis on damping in the stall .'}
+{'docnum': 1116, 'title': 'general instability of stiffened cylinders .'}
+{'docnum': 1117, 'title': 'stability of orthotropic cylindrical shells under combinedloading .'}
+{'docnum': 1118, 'title': 'elastic stability of orthotropic shells .'}
+{'docnum': 1119, 'title': 'plastic stability theory of thin shells .'}
+{'docnum': 1120, 'title': 'a unified theory of plastic buckling of columns andplates .'}
+{'docnum': 1121, 'title': 'compressive and torsional buckling of thin-wall cylindersin the yield region .'}
+{'docnum': 1122, 'title': 'on the role of initial imperfections in plastic bucklingof cylinders under axial compression'}
+{'docnum': 1123, 'title': "an extension of donnell's equation for a circular cylindrical shell ."}
+{'docnum': 1124, 'title': 'design of missile bodies for minimum drag at very highspeeds - thickness ratio, lift, and center of pressuregiven .'}
+{'docnum': 1125, 'title': 'collapse by instability of thin cylindrical shellsunder external pressure .'}
+{'docnum': 1126, 'title': "an engineer's conceptual approach to the buckling ofcylindrical shell (axial loading) ."}
+{'docnum': 1127, 'title': 'the buckling of sandwich type panels .'}
+{'docnum': 1128, 'title': 'face wrinkling and core strength in sandwich construction .'}
+{'docnum': 1129, 'title': 'general instability of a ring stiffened circular cylindricalshell under hydrostatic pressure .'}
+{'docnum': 1130, 'title': 'handbook of structural stability . pt .vi . strengthof stiffened curved plates and shells .'}
+{'docnum': 1131, 'title': 'the effect of axial constraint on the instability ofthin conical shells under external pressure .'}
+{'docnum': 1132, 'title': 'general instability of ring stiffened cylindrical shellssubject to external hydrostatic pressure - a comparisonof theory and experiment .'}
+{'docnum': 1133, 'title': "a simple extension of southwell's method for determining the elasticgeneral instability pressure of ring-stiffened cylinders subjectto external hydrostatic pressure ."}
+{'docnum': 1134, 'title': 'torispherical shells - a caution to designers .'}
+{'docnum': 1135, 'title': 'limit analysis of symmetrically loaded thin shellsof revolution .'}
+{'docnum': 1136, 'title': 'design of thin walled torispherical and toriconicalpressure - vessel heads .'}
+{'docnum': 1137, 'title': 'on the theory of thin elastic toroidal shells .'}
+{'docnum': 1138, 'title': 'asymptotic solutions of toroidal shell problems .'}
+{'docnum': 1139, 'title': 'the effect of entrance velocity on the flow of a rarefiedgas, through a tube .'}
+{'docnum': 1140, 'title': 'shock-standoff distance for spherical bodies at highmach numbers .'}
+{'docnum': 1141, 'title': 'the wake behind an oscillating vehicle .'}
+{'docnum': 1142, 'title': 'effect of wall divergence on sonic flows in solid walltunnels .'}
+{'docnum': 1143, 'title': 'a one-foot hypervelocity shock tunnel in which high-enthalpyreal gas flows can be generated with flow times ofabout 180 milliseconds .'}
+{'docnum': 1144, 'title': 'slipstream flow around several tilt-wing vtol aircraft modelsoperating near the ground .'}
+{'docnum': 1145, 'title': 'buckling of core-stabilized cylinders under axisymmetric externalloads .'}
+{'docnum': 1146, 'title': 'thermal buckling of cylinders .'}
+{'docnum': 1147, 'title': 'heat transfer to bodies traveling at high speed in the upperatmosphere .'}
+{'docnum': 1148, 'title': 'knudsen flow through a circular capillary .'}
+{'docnum': 1149, 'title': 'similar temperature boundary layers .'}
+{'docnum': 1150, 'title': 'preliminary results of density measurements from an air force satellite.'}
+{'docnum': 1151, 'title': 'experiments on supersonic blunt-body flows .'}
+{'docnum': 1152, 'title': 'on periodically oscillating wakes in the oseen approximation .'}
+{'docnum': 1153, 'title': 'a study of the simulation of flow with free stream mach number 1 in achoked wind tunnel .'}
+{'docnum': 1154, 'title': 'on the influence of wall boundary layers in closed transonic test sections.'}
+{'docnum': 1155, 'title': 'some experimental investigations on the influence of wall boundarylayers upon wind tunnel measurements at high subsonic speeds .'}
+{'docnum': 1156, 'title': 'experimental investigation of attenuation of strongshock waves in a shock tube with hydrogen and heliumas driver gases .'}
+{'docnum': 1157, 'title': 'hypersonic shock tunnel .'}
+{'docnum': 1158, 'title': 'the tailored-interface hypersonic shock tunnel .'}
+{'docnum': 1159, 'title': 'experimental investigation of the effect of yaw onrates of heat transfer to transverse circularcylinders in a 6500-foot-per-secondhypersonic air stream .'}
+{'docnum': 1160, 'title': 'recent advances in gaseous detonation .'}
+{'docnum': 1161, 'title': 'stagnation point heat transfer measurements in dissociatedair .'}
+{'docnum': 1162, 'title': 'force-test investigation of the stability and controlcharacteristics of a 1/8 scale model of a tilt-wingvertical take-off and landing airplane .'}
+{'docnum': 1163, 'title': 'force-test investigation of the stability and controlcharacteristics of a scale model of a tilt-wing verticaltake-off and landing aircraft .'}
+{'docnum': 1164, 'title': 'effect of ground proximity on the aerodynamic characteristicsof a four- engined vertical take-off and landing transportairplane model with tilting wing and propellers .'}
+{'docnum': 1165, 'title': 'an investigation of the effect of downwash from a vtolaircraft and a helicopter in the ground environment .'}
+{'docnum': 1166, 'title': 'an investigation to determine conditions under whichdownwash from vtol aircraft will start surface erosionfrom various types of terrain .'}
+{'docnum': 1167, 'title': 'an experimental study of the effect of downwash froma twin-propeller vtol aircraft on several types ofground surfaces .'}
+{'docnum': 1168, 'title': 'damage incurred on a tilt-wing multipropeller vtol/stolaircraft operating over a level, gravel-covered surface .'}
+{'docnum': 1169, 'title': 'hangling qualities experience with several vtol researchaircraft .'}
+{'docnum': 1170, 'title': 'structural loads surveys on two tilt-wing vtol configurations .'}
+{'docnum': 1171, 'title': 'the stability under axial compression and lateral pressureof circular cylindrical shells with a soft elasticcore .'}
+{'docnum': 1172, 'title': 'elastic stability of circular cylindrical shells stabilizedby a soft elastic core .'}
+{'docnum': 1173, 'title': 'the buckling of cylindrical shells under longitudinally varying loads .'}
+{'docnum': 1174, 'title': 'general theory of buckling .'}
+{'docnum': 1175, 'title': 'stresses from local loadings in cylindrical pressurevessels .'}
+{'docnum': 1176, 'title': 'bending tests of ring-stiffened circular cylinders .'}
+{'docnum': 1177, 'title': 'effects of rapid heating on strength of airframe components .'}
+{'docnum': 1178, 'title': 'buckling of ring-stiffened cylinders under a pure bendingmoment and a nonuniform temperature distribution .'}
+{'docnum': 1179, 'title': 'a theory of asymmetric hypersonic blunt-body flows .'}
+{'docnum': 1180, 'title': 'approximate analysis of the slot injection of a gasin laminar flow .'}
+{'docnum': 1181, 'title': 'steady magnetohydrodynamic flow past a non-conductingwedge .'}
+{'docnum': 1182, 'title': 'an approximate solution for laminar boundary layer flow .'}
+{'docnum': 1183, 'title': 'laminar hypersonic trail in the expansion-conductionregion .'}
+{'docnum': 1184, 'title': 'three dimensional effects in viscous wakes .'}
+{'docnum': 1185, 'title': 'an integral method for calculating heat and mass transferin laminar boundary layers .'}
+{'docnum': 1186, 'title': 'lift of slender delta wings according to newtoniantheory .'}
+{'docnum': 1187, 'title': 'shock-induced boundary layer separation in overexpanded conical exhaustnozzles .'}
+{'docnum': 1188, 'title': 'factors affecting lift-drag ratios at mach numbersfrom 5 to 20 .'}
+{'docnum': 1189, 'title': 'nonequilibrium flow past a wedge .'}
+{'docnum': 1190, 'title': 'flow of a gas near a solid surface .'}
+{'docnum': 1191, 'title': 'heat transfer to a hemisphere-cylinder at low reynoldsnumbers .'}
+{'docnum': 1192, 'title': 'an integral method for calculation of supersonic laminarboundary layer with heat transfer on yawed cone .'}
+{'docnum': 1193, 'title': 'some exact solutions for cavitating curvilinear bodies .'}
+{'docnum': 1194, 'title': 'magnetohydrodynamic flow past a thin airfoil .'}
+{'docnum': 1195, 'title': 'experiments with two-dimensional, transversely impinging'}
+{'docnum': 1196, 'title': 'growth of the turbulent wake behind a supersonic sphere .'}
+{'docnum': 1197, 'title': 'unsteady aerodynamic forces on slender supersonic aircraftwith flexible wings and bodies .'}
+{'docnum': 1198, 'title': 'the blunt-leading-edge problem in hypersonic flow .'}
+{'docnum': 1199, 'title': 'theoretical investigations of a supersonic laminarboundary layer with foreign-gas injection .'}
+{'docnum': 1200, 'title': 'hypersonic viscous flow over a sweat-cooled flat plate .'}
+{'docnum': 1201, 'title': 'a study of slender shapes of minimum drag using thenewton-busemann pressure coefficient law .'}
+{'docnum': 1202, 'title': 'uniformly valid second-order solution for supersonicflow over cruciform surfaces .'}
+{'docnum': 1203, 'title': 'the propagation of a nonuniform magnetohydrodynamicshock wave into a moving monatomic fluid .'}
+{'docnum': 1204, 'title': 'experimental effect of bluntness and gas rarefactionon drag coefficients and stagnation heat transfer onaxisymmetric shapes in hypersonic flow .'}
+{'docnum': 1205, 'title': 'effects of cooling on boundary layer transition ona hemi- sphere in simulated hypersonic flow .'}
+{'docnum': 1206, 'title': 'magnetohydrodynamic mach cones .'}
+{'docnum': 1207, 'title': 'supersonic airfoil performance with small heat addition .'}
+{'docnum': 1208, 'title': 'a linearized analysis of the forces exerted on a rigidwing by a shock wave .'}
+{'docnum': 1209, 'title': 'aerodynamic processes in the downwash-impingement problem .'}
+{'docnum': 1210, 'title': 'on slender airfoil theory for nonequilibrium flow .'}
+{'docnum': 1211, 'title': 'boundary layer transition at supersonic speedsthree-dimensionalroughness effects (spheres).'}
+{'docnum': 1212, 'title': 'effect of uniformly distributed roughness on turbulentskin-friction drag at supersonic speeds .'}
+{'docnum': 1213, 'title': 'heat transfer to slender cones in hypersonic flow,including effects of yaw and nose bluntness .'}
+{'docnum': 1214, 'title': 'the drag of elongated bodies over a wide reynolds numberrange .'}
+{'docnum': 1215, 'title': 'the effect of slip particularly for highly cooled walls .'}
+{'docnum': 1216, 'title': 'pressure distribution in regions of step-induced turbulentseparation .'}
+{'docnum': 1217, 'title': 'application of inequality constraints to variationalproblems of lifting re-entry .'}
+{'docnum': 1218, 'title': 'experimental lift and drag of a series of glide configurationsat mach numbers 12 .6 and 17 .5.'}
+{'docnum': 1219, 'title': 'determination of lift or drag programs to minimizere-entry heating .'}
+{'docnum': 1220, 'title': 'boundary layer transition in the presence of streamwisevortices .'}
+{'docnum': 1221, 'title': 'steady flow of conducting fluids in channels undertransverse magnetic fields, with consideration of halleffect .'}
+{'docnum': 1222, 'title': 'axisymmetric magnetohydrodynamic channel flow .'}
+{'docnum': 1223, 'title': 'inviscid-incompressible-flow theory of static two-dimensionalsolid jets, in proximity to the ground .'}
+{'docnum': 1224, 'title': 'on the plk method and the supersonic blunt-body problem .'}
+{'docnum': 1225, 'title': 'the effect of adverse pressure gradients on the characteristics ofturbulent boundary layers in supersonic streams .'}
+{'docnum': 1226, 'title': 'heat transfer in the laminar boundary layer with ablationof vapor of arbitrary molecular weight .'}
+{'docnum': 1227, 'title': 'pressure-gradient effects on the preston tube in supersonicflow .'}
+{'docnum': 1228, 'title': 'leading-edge separation of laminar boundary layersin supersonic flow .'}
+{'docnum': 1229, 'title': 'the effect of sweep angle on hypersonic flow over bluntwings .'}
+{'docnum': 1230, 'title': 'hypersonic nozzle expansion of air with atom recombinationpresent .'}
+{'docnum': 1231, 'title': 'hypersonic flow over an elliptic cone: theory and experiment .'}
+{'docnum': 1232, 'title': 'the curtain jet .'}
+{'docnum': 1233, 'title': 'supersonic shear flow past an airfoil between two parallelwalls .'}
+{'docnum': 1234, 'title': 'direct calculation of pressure distribution on blunthypersonic nose shapes with sharp corners .'}
+{'docnum': 1235, 'title': 'a theory of the two dimensional laminar bounary layerover a curved surface .'}
+{'docnum': 1236, 'title': 'the stagnation point boundary layer in the presenceof an applied magnetic field .'}
+{'docnum': 1237, 'title': 'foreign-gas injection into a compressible turbulentboundary layer on a flat plate .'}
+{'docnum': 1238, 'title': 'the newtonian approximation in magnetic hypersonicstagnation-point flow .'}
+{'docnum': 1239, 'title': 'body under lifting wing .'}
+{'docnum': 1240, 'title': 'nonsimilar solutions of the compressible laminar boundarylayer equations with applications to the upstream-transpirationcooling problem .'}
+{'docnum': 1241, 'title': 'the turbulent boundary layer on chemically active ablatingsurfaces .'}
+{'docnum': 1242, 'title': 'some considerations on the laminar stability of time-dependent basicflows .'}
+{'docnum': 1243, 'title': 'supersonic boom of wing-body configurations .'}
+{'docnum': 1244, 'title': 'on the aerodynamic noise of a turbulent jet .'}
+{'docnum': 1245, 'title': 'some aspects of nonequilibrium flows .'}
+{'docnum': 1246, 'title': 'solution of subsonic nonplanar lifting surface problemsby means of high-speed digital computers .'}
+{'docnum': 1247, 'title': 'the supersonic boom of a projectile related to dragand volume .'}
+{'docnum': 1248, 'title': 'an analytic extension of the shock-expansion method .'}
+{'docnum': 1249, 'title': 'plasma flow over a thin charged conductor .'}
+{'docnum': 1250, 'title': 'high-speed viscous corner flow .'}
+{'docnum': 1251, 'title': 'viscous flow past a quarter infinite plate .'}
+{'docnum': 1252, 'title': 'on the approach to chemical and vibrational equilibriumbehind a strong normal shock wave .'}
+{'docnum': 1253, 'title': 'hypersonic viscous flow near the stagnation point inthe presence of magnetic field .'}
+{'docnum': 1254, 'title': 'combustion in the boundary layer on a porous surface .'}
+{'docnum': 1255, 'title': 'the flow about a charged body moving in the lower atmosphere .'}
+{'docnum': 1256, 'title': 'fluctuating lift and drag acting on a cylinder in aflow at supercritical reynolds numbers .'}
+{'docnum': 1257, 'title': 'an optical boundary-layer probe .'}
+{'docnum': 1258, 'title': 'heat transfer, recovery factor and pressure distributionsaround a circular cylinder normal to a supersonic rarefiedair stream .'}
+{'docnum': 1259, 'title': 'second-order theory for unsteady supersonic flow pastslender pointed bodies of revolution .'}
+{'docnum': 1260, 'title': 'on the response of the laminar boundary layer to smallfluctuations of the free-stream velocity .'}
+{'docnum': 1261, 'title': 'a method of calculating velocity distribution for turbulentboundary layers in adverse pressure distributions .'}
+{'docnum': 1262, 'title': 'an extension of the linearized characteristics methodfor calculating the supersonic flow around ellipticcones .'}
+{'docnum': 1263, 'title': 'turbulent heat transfer through a highly cooled, partiallydissociated boundary layer .'}
+{'docnum': 1264, 'title': 'boundary layer transition and heat transfer in shocktubes .'}
+{'docnum': 1265, 'title': 'on the thrust hypothesis for the jet flap includingjet-mixing effects .'}
+{'docnum': 1266, 'title': 'minimum wing wave drag with volume constraint .'}
+{'docnum': 1267, 'title': 'on supersonic flow past thick airfoils .'}
+{'docnum': 1268, 'title': 'stable combustion of a high-velocity gas in a heatedboundary layer .'}
+{'docnum': 1269, 'title': 'a study of supersonic combustion .'}
+{'docnum': 1270, 'title': 'supersonic inlet dynamics .'}
+{'docnum': 1271, 'title': 'theory of supersonic propeller aerodynamics .'}
+{'docnum': 1272, 'title': 'oscillatory aerodynamic coefficients for a unifiedsupersonic hypersonic strip theory .'}
+{'docnum': 1273, 'title': 'magnetohydrodynamic effects on the formation of couette,flow .'}
+{'docnum': 1274, 'title': 'real gas effects in flow over blunt bodies at hypersonic speeds .'}
+{'docnum': 1275, 'title': 'flow about an unsteadily rotating disc .'}
+{'docnum': 1276, 'title': 'a three-dimensional linearized analysis of the forcesexerted on a rigid wing by a shock wave .'}
+{'docnum': 1277, 'title': 'a study of vortex cancellation .'}
+{'docnum': 1278, 'title': 'transition in a separated laminar boundary layer .'}
+{'docnum': 1279, 'title': 'sublimation in a hypersonic environment .'}
+{'docnum': 1280, 'title': 'wings with minimum drag due to lift in supersonic flow .'}
+{'docnum': 1281, 'title': 'turbulent heat transfer on blunt-nosed bodies in two-dimensionaland general three-dimensional hypersonic flow .'}
+{'docnum': 1282, 'title': 'compressible flat-plate boundary-layer flow with anapplied magnetic field .'}
+{'docnum': 1283, 'title': 'on shearing flow between porous coaxial cylinders .'}
+{'docnum': 1284, 'title': 'the transition to tubulence in a boundary layer ona blunt cone in supersonic flow .'}
+{'docnum': 1285, 'title': 'experiments at hypersonic speeds on circular conesat incidence .'}
+{'docnum': 1286, 'title': 'equilibrium real-gas performance charts for a shypersonicshock-tube wind-tunnel employing nitrogen .'}
+{'docnum': 1287, 'title': 'progress report on an experiment on the effect of surfaceflexibility on the stability of laminar flow .'}
+{'docnum': 1288, 'title': 'analysis of the fluid mechanics of secondary injectionfor thrust vector control .'}
+{'docnum': 1289, 'title': 'numerical technique to lifting surface theory for calculationof unsteady aerodynamic forces due to continuous sinusoidalgusts on several wing planforms at sobsonic speeds .'}
+{'docnum': 1290, 'title': 'measured and calculated subsonic and transonic fluttercharacteristics of a 45 sweptback wing planform inair and in freon-12 in the langley transonic dynamicstunnel .'}
+{'docnum': 1291, 'title': 'atmosphere entries with spacecraft lift-drag ratiosmodulated to limit decelerations .'}
+{'docnum': 1292, 'title': 'effect of jet pluming on the static stability of cone-cylinder-flareconfigurations at a mach number of 9. 65 .'}
+{'docnum': 1293, 'title': 'design of stiffened cylinders in axial compression .'}
+{'docnum': 1294, 'title': 'non-linear shallow shell analysis by the matrix forcemethod .'}
+{'docnum': 1295, 'title': 'recent advances in nonequilibrium dissociating gasdynamics .'}
+{'docnum': 1296, 'title': 'non-equilibrium expansions of air with coupled chemicalreactions .'}
+{'docnum': 1297, 'title': 'ionization nonequilibrium in expanding flows .'}
+{'docnum': 1298, 'title': 'theory of radiation from luminous shock waves in nitrogen .'}
+{'docnum': 1299, 'title': 'hypersonic viscous shock layer .'}
+{'docnum': 1300, 'title': 'some effects of bluntness on boundary layer transitionand heat transfer at supersonic speeds .'}
+{'docnum': 1301, 'title': 'compressible boundary layers on bodies of revolution .'}
+{'docnum': 1302, 'title': 'the development of the boundary layer in supersonicshear flow .'}
+{'docnum': 1303, 'title': 'air pressure on a cone moving at high speeds .'}
+{'docnum': 1304, 'title': 'newtonian flow over a surface . colston symposium onhypersonic flow,'}
+{'docnum': 1305, 'title': 'a proposed programme of wind tunnel tests at hypersonicspeeds to investigate the lifting properties of geometricallyslender shapes .'}
+{'docnum': 1306, 'title': 'experiments on circular cones at yaw in supersonicflow .'}
+{'docnum': 1307, 'title': 'laminar heat-transfer and pressure measurements ata mach number of 6 on sharp and blunt 15 half-anglecones at angles of attack up to 90 .'}
+{'docnum': 1308, 'title': 'a guide to the use of the m. i. t.  cone tables .'}
+{'docnum': 1309, 'title': 'hypersonic flows past a yawed circular cone and otherpointed bodies .'}
+{'docnum': 1310, 'title': 'survey of inviscid hypersonic flow theory for geometricallyslender shapes .'}
+{'docnum': 1311, 'title': 'some simple solutions to the problem of predictingboundary layer self-induced pressures .'}
+{'docnum': 1312, 'title': 'tabulated solutions of the equilibrium gas propertiesbehind the incidents and reflected normal shock-wavein a shock-tube .'}
+{'docnum': 1313, 'title': 'on the flow in a reflected shock tunnel .'}
+{'docnum': 1314, 'title': 'production of high temperature gases in shock tubes .'}
+{'docnum': 1315, 'title': 'performance estimates for the rae 6in . high-pressureshock tube .'}
+{'docnum': 1316, 'title': 'temperature measurements of shock-waves by spectrum-line reversal, ii adouble beam method .'}
+{'docnum': 1317, 'title': 'shock-tube testing time .'}
+{'docnum': 1318, 'title': 'stagnation temperature measurements in a hypersonic gun tunnel using the sodium-line reversal method .'}
+{'docnum': 1319, 'title': 'real gas effects in flow over blunt bodies at hypersonic speeds .'}
+{'docnum': 1320, 'title': 'divergence of plate airfoils of low aspect ratio atsupersonic speeds .'}
+{'docnum': 1321, 'title': 'effects of a flexible boundary on hydrodynamic stability .'}
+{'docnum': 1322, 'title': 'qualitiative solutions of the stability equation for a boundary layer in contact with various forms of flexible surface .'}
+{'docnum': 1323, 'title': 'an investigation of the use of an auxiliary slot tore-establish laminar flow on low drag aerofoils .'}
+{'docnum': 1324, 'title': 'the effect on transition of isolated surface excrescencesin the boundary layer .'}
+{'docnum': 1325, 'title': 'experiments on the use of suction through perforatedstrips for maintaining laminar flow . transition anddrag measurements .'}
+{'docnum': 1326, 'title': 'interaction of secondary injectants and rocket exhaustfor thrust vector control .'}
+{'docnum': 1327, 'title': 'on the propagation and structure of the blast wave .'}
+{'docnum': 1328, 'title': 'the production of aerodynamic forces by heat additionon external surfaces of aircraft .'}
+{'docnum': 1329, 'title': 'some aspects of non-stationary airfoil theory and itspractical application .'}
+{'docnum': 1330, 'title': 'on some fourier transforms in the theory of non-stationaryflows .'}
+{'docnum': 1331, 'title': 'calculated responses of a large sweptwing airplaneto continuous turbulence with flight-test comparisons .'}
+{'docnum': 1332, 'title': 'calculated spanwise lift distributions, influence functionsand influence coefficients for unswept wings in subsonicflow .'}
+{'docnum': 1333, 'title': 'aerodynamic forces on wings in non-uniform motion .'}
+{'docnum': 1334, 'title': 'calculated spanwise lift distributions and aerodynamicinfluence coefficients for swept wings in subsonicflow .'}
+{'docnum': 1335, 'title': 'use of freon-12 as a fluid for aerodynamic testing .'}
+{'docnum': 1336, 'title': 'studies of the use of freon-12 as a wind tunnel testingmedium .'}
+{'docnum': 1337, 'title': 'study of effects of sweep on the flutter of cantileverwings .'}
+{'docnum': 1338, 'title': 'investigation to determine effects of center of gravity location on thetransonic flutter characteristics of a 45degree sweptback wing .'}
+{'docnum': 1339, 'title': 'calculation of flutter characteristics for finite-span swept or unsweptwings at subsonic and supersonic speeds by a modified strip analysis .'}
+{'docnum': 1340, 'title': 'method of controlling stiffness properties of a solid-constructionmodel wing .'}
+{'docnum': 1341, 'title': 'investigation of wing flutter at transonic speeds for six systematically varied wing plan forms .'}
+{'docnum': 1342, 'title': 'the calculation of aerodynamic loading on surfaces of any shape .'}
+{'docnum': 1343, 'title': 'formulas for the supersonic loading, lift and dragof flat swept back wings with leading edges behindthe mach lines .'}
+{'docnum': 1344, 'title': 'atmospheric entries with vehicle lift-drag ratio modulatedto limit deceleration and rate of deceleration vehicleswith maximum lift-drag ratio of 0. 5.'}
+{'docnum': 1345, 'title': "the use of aerodynamic lift during entry into the earth'satmosphere ."}
+{'docnum': 1346, 'title': 'modulated entry .'}
+{'docnum': 1347, 'title': 'approximate analysis of atmospheric entry corridorsand angles .'}
+{'docnum': 1348, 'title': 'radiative heat transfer during atmosphere entry atparabolic velocity .'}
+{'docnum': 1349, 'title': 'effects of simulated rocket jet exhaust on stabilityand control of a research type airplane configurationat a mach number of 6. 86 .'}
+{'docnum': 1350, 'title': 'effects of jet billowing on stability of missile-typebodies at mach 3. 85 .'}
+{'docnum': 1351, 'title': 'exploratory tests of the effects of jet plumes on theflow over cone- cylinder flare bodies .'}
+{'docnum': 1352, 'title': 'aerodynamic investigation of a parabolic body of revolutionat mach number of 1. 92 and some effects of an annularsupersonic jet exhausting from the base .'}
+{'docnum': 1353, 'title': 'investigation of a two-step nozzle in the langley 11in .'}
+{'docnum': 1354, 'title': 'investigation of the flow through a single stage twodimensional nozzle in the langley 11in . hypersonictunnel .'}
+{'docnum': 1355, 'title': 'boundary layer displacement effects in air at machnumbers of 6. 8 and 9. 6.'}
+{'docnum': 1356, 'title': 'secondary flow fields embedded in hypersonic shocklayers .'}
+{'docnum': 1357, 'title': 'compressive buckling of simply supplorted plates withlongitudinal stiffeners .'}
+{'docnum': 1358, 'title': 'compressive buckling of simply supported plates withtransverse stiffeners .'}
+{'docnum': 1359, 'title': 'compression tests on circular cylinders stiffened longitudinallyby closely spaced z-section stringers .'}
+{'docnum': 1360, 'title': 'simplified analysis of general instability of stiffenedshells in pure bending .'}
+{'docnum': 1361, 'title': 'large deflections of structures subjected to heatingand external loads .'}
+{'docnum': 1362, 'title': 'non-linear analysis of heated, cambered wings by the matrix forcemethod .'}
+{'docnum': 1363, 'title': 'a characteristic type of instability in the large deflectionsof elastic plates .'}
+{'docnum': 1364, 'title': 'an experimental investigation of the interaction between shock waves and boundary layers .'}
+{'docnum': 1365, 'title': 'approximate calculation of the laminar boundary layer .'}
+{'docnum': 1366, 'title': 'the compressible laminar boundary layer with heat transferand arbitrary pressure gradient .'}
+{'docnum': 1367, 'title': 'a theoretical investigation of the effects of mach number, reynoldsnumber, wall temperature and surface curvature on laminar separation insupersonic flow .'}
+{'docnum': 1368, 'title': 'three dimensional viscous wakes .'}
+{'docnum': 1369, 'title': "steady motion of a sphere., oseens's criticism and solution ."}
+{'docnum': 1370, 'title': 'some remarks on the flat plate boundary layer .'}
+{'docnum': 1371, 'title': 'axisymmetric free mixing with swirl .'}
+{'docnum': 1372, 'title': 'on axially symmetric, turbulent, compressible mixing in the presenceof initial boundary layer .'}
+{'docnum': 1373, 'title': 'nose drag in free-molecule flow and its minimization .'}
+{'docnum': 1374, 'title': 'theoretical analysis of turbulent mixing of reactivegases with application to supersonic combustion ofhydrogen .'}
+{'docnum': 1375, 'title': 'an approximate solution for the axisymmetric jet of a laminarcompressible fluid .'}
+{'docnum': 1376, 'title': 'some applications in physics of the p-function .'}
+{'docnum': 1377, 'title': 'theoretical investigation of the flow field about bluntnosed bodies in supersonic flight .'}
+{'docnum': 1378, 'title': 'blunt-cone pressure distributions at hypersonic mach numbers .'}
+{'docnum': 1379, 'title': 'hypersonic flight and the re-entry problem .'}
+{'docnum': 1380, 'title': 'the problem of obtaining high lift-drag ratios at supersonic speeds .'}
+{'docnum': 1381, 'title': 'effect of mach number on boundary layer transitionin the presence of pressure rise and surface roughnesson an ogive-cylinder body with cold wall conditions .'}
+{'docnum': 1382, 'title': "the solution of the equations of the laminar boundarylayer for schubauer's observed pressure distributionfor an elliptic cylinder ."}
+{'docnum': 1383, 'title': 'on the theory of laminar boundary layer involving separation .'}
+{'docnum': 1384, 'title': 'a theoretical calculation of the laminar boundary layeraround an elliptic cylinder and its comparison withexperiment .'}
+{'docnum': 1385, 'title': 'air flow in a separating laminar boundary layer .'}
+{'docnum': 1386, 'title': 'analysis and calculation by integral methods of laminarcompressible boundary layer with heat transfer andwith and without pressure gradient .'}
+{'docnum': 1387, 'title': 'the buckling of a square panel under shear, when onepair of opposite edges is clamped and the other pairis simply supported .'}
+{'docnum': 1388, 'title': 'a process for the step-by-step integration of differentialequations in an automatic digital computing machine .'}
+{'docnum': 1389, 'title': 'numerical construction of detached shock waves .'}
+{'docnum': 1390, 'title': 'on the numerical calculation of detached bow shockwaves in hypersonic flow .'}
+{'docnum': 1391, 'title': 'shock wave and flow field development in hypersonic re-entry .'}
+{'docnum': 1392, 'title': 'the solution of small displacement, stability or vibrationproblems concerning a flat rectangular panel when theedges are either clamped or simply supported .'}
+{'docnum': 1393, 'title': 'heat transfer near the forward stagnation point ofa body of revolution .'}
+{'docnum': 1394, 'title': 'stagnation point heat transfer measurements in hypersoniclow density flow .'}
+{'docnum': 1395, 'title': 'low density stagnation point heat transfer measurementsin the hypersonic shock tunnel .'}
+{'docnum': 1396, 'title': 'shear buckling of clamped and simply-supported infinitelylong plates reinforced by transverse stiffeners .'}
+{'docnum': 1397, 'title': 'critical shear stress of an infinitely long simplysupported plate with transverse stiffeners .'}
+{'docnum': 1398, 'title': 'stability of rectangular plates under shear and bendingforces .'}
+{'docnum': 1399, 'title': 'buckling of transverse stiffened plates under shear .'}
+{'docnum': 1400, 'title': 'the buckling shear stress of simply-supported infinitelylong plates with transverse stiffeners .'}
